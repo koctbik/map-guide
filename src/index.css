@@ -292,6 +292,12 @@ a {
   font-size: 13px;
 }
 
+.popup-actions {
+  display: flex;
+  gap: 6px;
+  flex-wrap: wrap;
+}
+
 .popup button {
   background: var(--accent);
   color: #fff;
@@ -300,6 +306,19 @@ a {
   padding: 6px 10px;
   cursor: pointer;
   font: inherit;
+  font-size: 12px;
+}
+
+.popup button.popup-visited {
+  background: var(--panel-bg);
+  color: var(--text);
+  border: 1px solid var(--border);
+}
+
+.popup button.popup-visited.visited {
+  background: #eaf5e4;
+  border-color: #bfe0ac;
+  color: #3a6b2a;
 }
 
 /* ---------- Place wiki page ---------- */

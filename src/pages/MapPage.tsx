@@ -5,8 +5,8 @@ import CategoryFilter from "../components/CategoryFilter";
 import CitySwitcher from "../components/CitySwitcher";
 import { getCity } from "../data/cities";
 import { useVisited } from "../state/useVisited";
-import { ALL_CATEGORIES, CATEGORY_META } from "../categoryMeta";
-import type { Category } from "../types";
+import { useFilters } from "../state/useFilters";
+import { CATEGORY_META } from "../categoryMeta";
 
 export default function MapPage() {
   const [searchParams, setSearchParams] = useSearchParams();
@@ -15,12 +15,16 @@ export default function MapPage() {
 
   const city = getCity(cityId);
   const { isVisited, toggleVisited } = useVisited();
+  const {
+    activeCategories,
+    toggleCategory,
+    soloCategory,
+    resetCategories,
+    visitedFilter,
+    setVisitedFilter,
+  } = useFilters();
 
   const [query, setQuery] = useState("");
-  const [activeCategories, setActiveCategories] = useState<Set<Category>>(
-    new Set(ALL_CATEGORIES),
-  );
-  const [visitedFilter, setVisitedFilter] = useState<"all" | "visited" | "unvisited">("all");
   const [flyTo, setFlyTo] = useState<[number, number] | null>(null);
 
   const places = useMemo(() => {
@@ -43,15 +47,6 @@ export default function MapPage() {
   }, [city.places, activeCategories, visitedFilter, query, isVisited]);
 
   const visitedCount = city.places.filter((p) => isVisited(p.id)).length;
-
-  function toggleCategory(cat: Category) {
-    setActiveCategories((prev) => {
-      const next = new Set(prev);
-      if (next.has(cat)) next.delete(cat);
-      else next.add(cat);
-      return next;
-    });
-  }
 
   function handleCityChange(id: string) {
     setSearchParams({ city: id });
@@ -82,7 +77,8 @@ export default function MapPage() {
             <CategoryFilter
               active={activeCategories}
               onToggle={toggleCategory}
-              onReset={() => setActiveCategories(new Set(ALL_CATEGORIES))}
+              onSolo={soloCategory}
+              onReset={resetCategories}
             />
 
             <div className="visited-filter">
@@ -154,6 +150,7 @@ export default function MapPage() {
           center={city.center}
           places={places}
           isVisited={isVisited}
+          onToggleVisited={toggleVisited}
           flyToCenter={flyTo}
           cityId={cityId}
         />

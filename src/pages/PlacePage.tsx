@@ -1,3 +1,4 @@
+import { useEffect } from "react";
 import { Link, useNavigate, useParams } from "react-router-dom";
 import { MapContainer, Marker, TileLayer } from "react-leaflet";
 import L from "leaflet";
@@ -10,6 +11,16 @@ export default function PlacePage() {
   const { cityId = "", placeId = "" } = useParams();
   const navigate = useNavigate();
   const { isVisited, toggleVisited } = useVisited();
+
+  const goBack = () => navigate(`/?city=${cityId}`);
+
+  useEffect(() => {
+    function onKeyDown(e: KeyboardEvent) {
+      if (e.key === "Escape") navigate(`/?city=${cityId}`);
+    }
+    window.addEventListener("keydown", onKeyDown);
+    return () => window.removeEventListener("keydown", onKeyDown);
+  }, [cityId, navigate]);
 
   const city = getCity(cityId);
   const place = findPlace(cityId, placeId);
@@ -36,7 +47,7 @@ export default function PlacePage() {
   return (
     <div className="place-page">
       <div className="place-page-header">
-        <button className="link-button" onClick={() => navigate(`/?city=${cityId}`)}>
+        <button className="link-button" onClick={goBack} title="Esc">
           ← Back to {city.cityLabel} map
         </button>
       </div>
