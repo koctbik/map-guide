@@ -428,6 +428,7 @@ a {
   }
 
   .map-area {
+    flex: none;
     height: 45vh;
   }
 }

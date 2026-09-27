@@ -1344,6 +1344,210 @@
       "address": "Küçük Ayasofya, İbrahim Paşa Yokuşu 48/A, Fatih",
       "priceLevel": "$",
       "rating": 4.8
+    },
+    {
+      "id": "ortakoy-mosque",
+      "name": "Ortaköy Mosque (Büyük Mecidiye Camii)",
+      "category": "mosque",
+      "neighborhood": "Ortaköy, Beşiktaş",
+      "lat": 41.04694,
+      "lng": 29.02694,
+      "shortDescription": "A neo-Baroque waterfront mosque framed by the first Bosphorus Bridge.",
+      "wiki": "Built in 1856 for Sultan Abdülmecid, this small but ornate mosque sits right on the Bosphorus shore in Ortaköy's main square, with the suspension bridge looming behind it — one of the most photographed views in Istanbul. The square around it is lively day and night with street-food stalls (try a kumpir, a loaded baked potato), cafes, and a weekend arts-and-crafts market. It's a working mosque, so time interior visits around prayer times and dress modestly. Sunset is the best time for photos, when the bridge lights come on.",
+      "tags": [
+        "bosphorus",
+        "ottoman",
+        "photo-spot"
+      ],
+      "address": "Ortaköy Meydanı, Beşiktaş",
+      "priceLevel": "free"
+    },
+    {
+      "id": "eyup-sultan-mosque",
+      "name": "Eyüp Sultan Mosque",
+      "category": "mosque",
+      "neighborhood": "Eyüpsultan",
+      "lat": 41.04795,
+      "lng": 28.93379,
+      "shortDescription": "Istanbul's holiest mosque, built around the tomb of a companion of the Prophet.",
+      "wiki": "The mosque marks the burial site of Abu Ayyub al-Ansari, standard-bearer and companion of the Prophet Muhammad, discovered during the Ottoman siege of Constantinople in 1453. The current mosque dates to 1800, rebuilt by Sultan Selim III on the foundations of the original 1458 structure — the first mosque the Ottomans built after conquering the city. It remains a major pilgrimage site, especially busy for Friday prayers and during religious holidays, and its courtyard fills with families and children marking circumcision ceremonies. Combine a visit with the cable car up to Pierre Loti Hill just behind it, and dress conservatively out of respect.",
+      "tags": [
+        "ottoman",
+        "pilgrimage",
+        "active-mosque"
+      ],
+      "address": "Cami Kebir Sk., Eyüpsultan",
+      "priceLevel": "free"
+    },
+    {
+      "id": "yildiz-palace",
+      "name": "Yıldız Palace (Yıldız Sarayı)",
+      "category": "palace",
+      "neighborhood": "Yıldız, Beşiktaş",
+      "lat": 41.0478,
+      "lng": 29.012,
+      "shortDescription": "A sprawling wooded palace complex favored by Sultan Abdülhamid II.",
+      "wiki": "Rather than a single building, Yıldız is a collection of pavilions and kiosks scattered through a hillside park above the Bosphorus, developed as the main seat of government by Sultan Abdülhamid II in the late 19th century, who reportedly favored it for its easily defensible, wooded setting. The Şale Kiosk, built to host Kaiser Wilhelm II, is the most elaborate surviving building and is open as a museum with lavish Hereke carpets and inlaid woodwork. The surrounding Yıldız Park is a pleasant, hilly escape with ponds and greenhouses. Check which pavilions are open before visiting, since only parts of the complex operate as museums.",
+      "tags": [
+        "ottoman",
+        "park",
+        "hilltop"
+      ],
+      "address": "Yıldız Mah., Beşiktaş",
+      "priceLevel": "$"
+    },
+    {
+      "id": "ciragan-palace",
+      "name": "Çırağan Palace",
+      "category": "palace",
+      "neighborhood": "Beşiktaş",
+      "lat": 41.0431,
+      "lng": 29.0092,
+      "shortDescription": "A 19th-century Bosphorus-front Ottoman palace, now a luxury hotel.",
+      "wiki": "Completed in 1874 for Sultan Abdülaziz, Çırağan was one of the last grand palaces built directly on the Bosphorus shore before the empire's finances collapsed. It burned in a 1910 fire and stood as a ruin for decades before being restored and reopened in 1991 as a five-star hotel, with the original marble facade preserved along the water. Non-guests can still stroll the waterfront promenade outside and admire the facade, or splurge on tea at one of its restaurants for a closer look at the interior. It's a scenic stop on a walk between Beşiktaş and Ortaköy.",
+      "tags": [
+        "ottoman",
+        "bosphorus",
+        "architecture"
+      ],
+      "address": "Çırağan Cd. No:32, Beşiktaş",
+      "priceLevel": "$$$"
+    },
+    {
+      "id": "pera-museum",
+      "name": "Pera Museum",
+      "category": "museum",
+      "neighborhood": "Beyoğlu",
+      "lat": 41.03181,
+      "lng": 28.97519,
+      "shortDescription": "A compact, well-curated museum best known for Orientalist painting.",
+      "wiki": "Housed in a restored 1893 hotel building just off İstiklal Avenue, Pera Museum is best known for its Orientalist painting collection, anchored by Osman Hamdi Bey's 'The Tortoise Trainer'. It also holds Anatolian weights-and-measures and Kütahya tile/ceramic collections, plus strong rotating contemporary exhibitions. It's small enough to see properly in an hour or two, making it an easy add-on to a walk through Beyoğlu. Check current exhibitions online, since a chunk of the appeal is whatever temporary show is running.",
+      "tags": [
+        "art",
+        "orientalism",
+        "beyoglu"
+      ],
+      "address": "Meşrutiyet Cd. No:65, Tepebaşı, Beyoğlu",
+      "priceLevel": "$"
+    },
+    {
+      "id": "miniaturk",
+      "name": "Miniatürk",
+      "category": "park",
+      "neighborhood": "Sütlüce, Beyoğlu",
+      "lat": 41.05899,
+      "lng": 28.94908,
+      "shortDescription": "An open-air park of 1:25-scale miniature models of Turkey's landmarks.",
+      "wiki": "Miniatürk lays out scaled-down models of well over a hundred monuments from across Turkey and former Ottoman territory — Hagia Sophia, Cappadocia's fairy chimneys, Ephesus — along a walkable promenade on the Golden Horn. It's aimed at families and kids, with a small train, playgrounds, and a Crystal Istanbul light-and-sculpture hall on site. It's a fun, low-effort couple of hours rather than a must-see, best paired with a Golden Horn walk or the nearby Rahmi M. Koç Museum. Go earlier in the day to avoid the midday heat, since most of the park is outdoors.",
+      "tags": [
+        "family",
+        "outdoor",
+        "golden-horn"
+      ],
+      "address": "İmrahor Cd., Sütlüce, Beyoğlu",
+      "priceLevel": "$"
+    },
+    {
+      "id": "balat-fener-colorful-houses",
+      "name": "Balat & Fener Colorful Houses",
+      "category": "historical",
+      "neighborhood": "Balat, Fatih",
+      "lat": 41.02954,
+      "lng": 28.94765,
+      "shortDescription": "Steep, cobbled streets of brightly painted 19th-century townhouses.",
+      "wiki": "Balat was historically Istanbul's main Jewish quarter after Sephardic refugees settled here from the late 15th century, while neighboring Fener was the center of the city's Greek Orthodox community and still hosts the Ecumenical Patriarchate. Today both are known for steep, narrow streets lined with colorful wooden and stone houses, most famously along the stepped Merdivenli Yokuş. Wander for the street art, antique shops, and small cafes, and combine it with a visit to the Chora Church a short walk away. It's a real residential neighborhood, so keep an eye out and be respectful when photographing people's homes.",
+      "tags": [
+        "neighborhood",
+        "colorful-houses",
+        "photo-spot"
+      ],
+      "address": "Merdivenli Yokuş Sk., Balat, Fatih",
+      "priceLevel": "free"
+    },
+    {
+      "id": "kuzguncuk",
+      "name": "Kuzguncuk",
+      "category": "historical",
+      "neighborhood": "Üsküdar",
+      "lat": 41.0367,
+      "lng": 29.0297,
+      "shortDescription": "A quiet, colorful Bosphorus village-like neighborhood on the Asian side.",
+      "wiki": "Kuzguncuk kept its small-scale wooden houses and slow pace even as much of Istanbul was rebuilt, and it once housed a genuinely mixed community of Muslims, Jews, Armenians, and Greeks — a mosque, synagogue, and churches still stand within a few minutes' walk of each other on the main street. It's a favorite spot for a quiet coffee or brunch away from the tourist crowds, with a handful of good cafes and antique shops along Icadiye Caddesi. It has also served as a filming location for several Turkish TV shows, which locals will happily point out. Easiest to reach by ferry or a short taxi from Üsküdar.",
+      "tags": [
+        "neighborhood",
+        "asian-side",
+        "local-favorite"
+      ],
+      "address": "İcadiye Cd., Kuzguncuk, Üsküdar",
+      "priceLevel": "free"
+    },
+    {
+      "id": "bagdat-caddesi",
+      "name": "Bağdat Caddesi",
+      "category": "market",
+      "neighborhood": "Suadiye/Erenköy, Kadıköy",
+      "lat": 40.9611,
+      "lng": 29.0814,
+      "shortDescription": "A long, leafy Asian-side avenue of upscale shops, cafes, and people-watching.",
+      "wiki": "Running roughly 14km along Istanbul's Asian shore, Bağdat Caddesi is the city's classic upmarket shopping street, lined with Turkish and international fashion brands, patisseries, and sidewalk cafes. It's less about specific sights and more about the experience — strolling, coffee, and watching the crowd — with the Suadiye and Erenköy stretches the most walkable and lively. It gets especially busy on weekend evenings and during sales seasons. It's a useful, less touristy contrast to Istiklal Avenue if you want to see how middle- and upper-class Istanbullites actually shop and relax.",
+      "tags": [
+        "shopping",
+        "asian-side",
+        "cafes"
+      ],
+      "address": "Bağdat Cd., Suadiye, Kadıköy",
+      "priceLevel": "$$"
+    },
+    {
+      "id": "haydarpasa-station",
+      "name": "Haydarpaşa Railway Station",
+      "category": "historical",
+      "neighborhood": "Kadıköy",
+      "lat": 40.9962,
+      "lng": 29.0187,
+      "shortDescription": "A monumental waterfront train station that once launched journeys to Baghdad.",
+      "wiki": "Built in 1908 in a Neo-Renaissance style as a gift from Kaiser Wilhelm II's Germany (part of the Berlin-Baghdad railway ambitions), Haydarpaşa was for a century the grand terminus for train travel from Istanbul's Asian side toward Ankara and beyond. Long-distance services were suspended in 2012 for line electrification and the building has sat largely dormant since, though its striking facade rising straight out of the Bosphorus waterfront is still worth the walk from Kadıköy. Check current access, since the interior is generally closed to visitors during ongoing restoration. It pairs well with a stroll along the Kadıköy or Moda waterfront.",
+      "tags": [
+        "architecture",
+        "railway-history",
+        "asian-side"
+      ],
+      "address": "Haydarpaşa Gar Sk., Rasimpaşa, Kadıköy",
+      "priceLevel": "free"
+    },
+    {
+      "id": "sirkeci-station",
+      "name": "Sirkeci Railway Station",
+      "category": "historical",
+      "neighborhood": "Sirkeci, Fatih",
+      "lat": 41.0136,
+      "lng": 28.9769,
+      "shortDescription": "The storied European terminus of the Orient Express.",
+      "wiki": "Opened in 1890, Sirkeci Station was the final stop of the legendary Orient Express line from Paris, and its Orientalist-style building remains one of the city's most elegant pieces of railway architecture. A small Istanbul Railway Museum inside covers the station's history and Ottoman-era rail travel, and the attached Orient Express Restaurant leans into the nostalgia. It's an easy stop combined with the nearby Spice Bazaar and Gülhane Park. The station still handles some suburban rail traffic, so it's a functioning building rather than a pure museum piece.",
+      "tags": [
+        "railway-history",
+        "orient-express",
+        "architecture"
+      ],
+      "address": "Ankara Cd., Sirkeci, Fatih",
+      "priceLevel": "free"
+    },
+    {
+      "id": "taksim-istiklal",
+      "name": "Taksim Square & İstiklal Avenue",
+      "category": "historical",
+      "neighborhood": "Beyoğlu",
+      "lat": 41.037,
+      "lng": 28.985,
+      "shortDescription": "Istanbul's central square and its famous pedestrian boulevard.",
+      "wiki": "Taksim Square, anchored by the Republic Monument, is modern Istanbul's civic heart and the northern end of İstiklal Avenue, a 1.4km pedestrian boulevard lined with shops, cinemas, churches, and passages dating largely from the late Ottoman and early Republican eras. A restored historic tram trundles down the middle of the avenue, and side streets duck into atmospheric spots like Çiçek Pasajı (Flower Passage) and the Fish Market. It's the busiest stretch of the city at almost any hour, so keep an eye on belongings, and expect it to be very crowded on weekend evenings. Walking the full avenue down to Galata/Tünel is a good way to connect Beyoğlu's sights.",
+      "tags": [
+        "beyoglu",
+        "shopping",
+        "nightlife"
+      ],
+      "address": "İstiklal Cd., Beyoğlu",
+      "priceLevel": "free"
     }
   ]
 }

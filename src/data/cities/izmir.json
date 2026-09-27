@@ -789,6 +789,57 @@
       ],
       "address": "Gazi Osman Paşa Bulvarı No:16, Renaissance Izmir Hotel, Konak",
       "priceLevel": "$$$"
+    },
+    {
+      "id": "konak-pier",
+      "name": "Konak Pier",
+      "category": "market",
+      "neighborhood": "Konak",
+      "lat": 38.4228,
+      "lng": 27.1297,
+      "shortDescription": "A Gustave Eiffel-designed former customs pier turned waterfront mall.",
+      "wiki": "Originally built in 1890 to a design credited to Gustave Eiffel's workshop as an Ottoman customs building, this cast-iron pier structure juts out into the gulf next to Konak Square. It was restored and reopened in the 2000s as a shopping and dining complex, keeping much of its original ironwork visible inside. It's a pleasant spot for a coffee with harbor views and sits right next to the Clock Tower and Kemeraltı Bazaar, making it an easy stop on a walk through central Konak. The rooftop terrace is worth a look for the view over the gulf.",
+      "tags": [
+        "architecture",
+        "waterfront",
+        "shopping"
+      ],
+      "address": "Konak Meydanı, Konak",
+      "priceLevel": "free"
+    },
+    {
+      "id": "yali-mosque",
+      "name": "Yalı Mosque (Konak Camii)",
+      "category": "mosque",
+      "neighborhood": "Konak",
+      "lat": 38.41889,
+      "lng": 27.12889,
+      "shortDescription": "A small, elegant 18th-century mosque right on Konak Square.",
+      "wiki": "Built in 1755 by Ayşe Hanım, daughter of a grand vizier, this compact Ottoman mosque sits directly on Konak Square beside the Clock Tower and the old Government House, its tile-covered facade and fountain making it one of the square's most photogenic corners. Its small scale and waterfront-facing design ('yalı' means waterside mansion) set it apart from Istanbul's larger imperial mosques. It's an easy, quick stop combined with the Clock Tower, Konak Pier, and the walk into Kemeraltı Bazaar. As an active mosque, visit respectfully and avoid prayer times if you want to look inside.",
+      "tags": [
+        "ottoman",
+        "konak-square",
+        "architecture"
+      ],
+      "address": "Konak Meydanı, Konak",
+      "priceLevel": "free"
+    },
+    {
+      "id": "boyalik-beach",
+      "name": "Boyalık Beach",
+      "category": "park",
+      "neighborhood": "Çeşme",
+      "lat": 38.32553,
+      "lng": 26.32693,
+      "shortDescription": "A long sandy public beach on the edge of Çeşme town.",
+      "wiki": "Boyalık is Çeşme's main town beach — a long stretch of sand with shallow, calm water that's popular with families, plus beach clubs and loungers along parts of it for a fee alongside free public sections. It's an easy walk or short taxi from Çeşme's center and castle, making it a natural stop to cool off after sightseeing. Summer weekends get crowded, so arrive early for a spot. It's less about big waves and more about an easy, relaxed Aegean afternoon.",
+      "tags": [
+        "beach",
+        "family",
+        "aegean"
+      ],
+      "address": "Boyalık Mevkii, Çeşme",
+      "priceLevel": "free"
     }
   ]
 }
