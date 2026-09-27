@@ -1,0 +1,809 @@
+{
+  "city": "istanbul",
+  "cityLabel": "Istanbul",
+  "center": {
+    "lat": 41.0028,
+    "lng": 28.7857
+  },
+  "places": [
+    {
+      "id": "hagia-sophia",
+      "name": "Hagia Sophia (Ayasofya)",
+      "category": "mosque",
+      "neighborhood": "Sultanahmet",
+      "lat": 41.0086,
+      "lng": 28.9802,
+      "shortDescription": "Justinian’s immense domed masterpiece bridges Byzantine and Ottoman Istanbul.",
+      "wiki": "Completed in 537 under Emperor Justinian, Hagia Sophia served as a Byzantine cathedral before becoming an Ottoman mosque, later a museum, and a mosque again in 2020. Its vast dome, marble revetments and surviving mosaics reveal these layered histories. Sightseeing access follows a designated visitor route, distinct from worship access; check current ticket and restoration arrangements before visiting. Wear modest clothing and follow the mosque’s head-covering rules.",
+      "tags": [
+        "byzantine",
+        "ottoman",
+        "unesco"
+      ],
+      "priceLevel": "$$",
+      "address": "Ayasofya Meydanı, Fatih"
+    },
+    {
+      "id": "blue-mosque",
+      "name": "Blue Mosque (Sultan Ahmed Mosque)",
+      "category": "mosque",
+      "neighborhood": "Sultanahmet",
+      "lat": 41.0054,
+      "lng": 28.9768,
+      "shortDescription": "Six minarets and blue İznik tiles frame Istanbul’s iconic imperial mosque.",
+      "wiki": "Sultan Ahmed I commissioned this mosque in the early seventeenth century, opposite Hagia Sophia. Architect Sedefkâr Mehmed Ağa combined a cascading dome arrangement with an interior decorated in İznik tiles. Visitors enter the courtyard and designated interior visitor area between prayers. Cover shoulders and legs, remove shoes where instructed, and bring a headscarf if required.",
+      "tags": [
+        "ottoman",
+        "tiles",
+        "unesco"
+      ],
+      "priceLevel": "free",
+      "address": "Atmeydanı Caddesi, Fatih"
+    },
+    {
+      "id": "topkapi-palace",
+      "name": "Topkapı Palace",
+      "category": "palace",
+      "neighborhood": "Sultanahmet",
+      "lat": 41.0115,
+      "lng": 28.9834,
+      "shortDescription": "Explore the courtyards, treasury and harem of the Ottoman court.",
+      "wiki": "Mehmed II established Topkapı after the Ottoman conquest, and successive sultans expanded it over centuries. Courtyards, audience rooms and the Harem show how the imperial household and government operated. Visitors also encounter collections of precious objects and views over the Bosphorus. Allow half a day and check which sections your ticket includes before entering.",
+      "tags": [
+        "ottoman",
+        "unesco",
+        "bosphorus"
+      ],
+      "priceLevel": "$$$",
+      "address": "Cankurtaran, Bab-ı Hümayun Caddesi, Fatih"
+    },
+    {
+      "id": "basilica-cistern",
+      "name": "Basilica Cistern (Yerebatan Sarnıcı)",
+      "category": "historical",
+      "neighborhood": "Sultanahmet",
+      "lat": 41.0084,
+      "lng": 28.9779,
+      "shortDescription": "Walk beneath the city through a forest of Byzantine columns.",
+      "wiki": "Built during Justinian’s reign in the sixth century, this underground reservoir formed part of Constantinople’s water supply. Its reused columns include two famous Medusa-head bases. Raised walkways carry visitors through the illuminated interior, where contemporary installations may accompany the architecture. Book through the operator and wear shoes with grip on potentially damp surfaces.",
+      "tags": [
+        "byzantine",
+        "underground",
+        "architecture"
+      ],
+      "priceLevel": "$$",
+      "address": "Alemdar, Yerebatan Caddesi, Fatih"
+    },
+    {
+      "id": "suleymaniye-mosque",
+      "name": "Süleymaniye Mosque",
+      "category": "mosque",
+      "neighborhood": "Süleymaniye",
+      "lat": 41.0162,
+      "lng": 28.9642,
+      "shortDescription": "Sinan’s hilltop mosque pairs serene architecture with Golden Horn views.",
+      "wiki": "Mimar Sinan designed this imperial complex for Süleyman the Magnificent in the sixteenth century. The mosque was part of a larger ensemble of schools, charitable institutions and baths. Visitors admire the balanced interior, courtyards and surrounding views, with the royal mausoleums nearby. Visit between prayers and observe modest dress and shoe-removal rules.",
+      "tags": [
+        "ottoman",
+        "sinan",
+        "unesco"
+      ],
+      "priceLevel": "free",
+      "address": "Süleymaniye Mahallesi, Fatih"
+    },
+    {
+      "id": "kariye-chora",
+      "name": "Kariye Mosque (Chora Church)",
+      "category": "mosque",
+      "neighborhood": "Edirnekapı",
+      "lat": 41.0312,
+      "lng": 28.9392,
+      "shortDescription": "Extraordinary Byzantine mosaics survive inside a former monastery church.",
+      "wiki": "The surviving Chora church contains celebrated mosaics and frescoes largely commissioned by Theodore Metochites in the early fourteenth century. After Ottoman conversion and a period as a museum, it reopened as a mosque in 2024. Visitors come especially for its narrative religious art and funerary chapel. Check the current sightseeing arrangements, avoid prayer periods and dress modestly. [UNESCO conservation record](https://whc.unesco.org/document/220840).",
+      "tags": [
+        "byzantine",
+        "mosaics",
+        "ottoman"
+      ],
+      "priceLevel": "$$",
+      "address": "Dervişali, Kariye Cami Sokak, Fatih"
+    },
+    {
+      "id": "dolmabahce-palace",
+      "name": "Dolmabahçe Palace",
+      "category": "palace",
+      "neighborhood": "Beşiktaş",
+      "lat": 41.0392,
+      "lng": 29.0005,
+      "shortDescription": "A lavish waterfront palace reveals the Ottoman court’s nineteenth-century tastes.",
+      "wiki": "Sultan Abdülmecid commissioned Dolmabahçe as a new imperial residence, completed in 1856. Its European-influenced interiors mark a striking departure from Topkapı’s courtyard architecture. Visitors tour ceremonial rooms and other ticketed sections beside the Bosphorus; Atatürk died here in 1938. Allow several hours and check the National Palaces ticket rules before arrival.",
+      "tags": [
+        "ottoman",
+        "bosphorus",
+        "architecture"
+      ],
+      "priceLevel": "$$$",
+      "address": "Vişnezade, Dolmabahçe Caddesi, Beşiktaş"
+    },
+    {
+      "id": "galata-tower",
+      "name": "Galata Tower",
+      "category": "historical",
+      "neighborhood": "Galata",
+      "lat": 41.0256,
+      "lng": 28.9741,
+      "shortDescription": "A Genoese landmark offers sweeping views over the old city and Bosphorus.",
+      "wiki": "The Genoese built the present tower in 1348 as part of their fortified settlement at Galata. It later served several Ottoman functions, including fire observation. Today visitors explore its museum displays and ascend for city panoramas. Arrive early and expect stairs and a narrow, busy viewing area.",
+      "tags": [
+        "medieval",
+        "panorama",
+        "genoese"
+      ],
+      "priceLevel": "$$",
+      "address": "Bereketzade, Galata Kulesi Sokak, Beyoğlu"
+    },
+    {
+      "id": "rumeli-fortress",
+      "name": "Rumeli Fortress (Rumeli Hisarı)",
+      "category": "historical",
+      "neighborhood": "Rumelihisarı",
+      "lat": 41.0848,
+      "lng": 29.0567,
+      "shortDescription": "Mehmed II’s massive towers guard a narrow stretch of the Bosphorus.",
+      "wiki": "Built in 1452, the fortress helped Mehmed II control shipping before the conquest of Constantinople. Its three principal towers and curtain walls climb a steep European-shore hillside. Visitors can appreciate the fortifications and the waterfront setting. Check access before travelling: the museum warns that climbing the walls and towers is prohibited for safety and restoration reasons. [Official museum information](https://turkishmuseums.kprod.kultur.gov.tr/museum/detail/2077-istanbul-rumeli-hisari-fortress/2077/4).",
+      "tags": [
+        "ottoman",
+        "fortress",
+        "bosphorus"
+      ],
+      "priceLevel": "$$",
+      "address": "Rumelihisarı, Yahya Kemal Caddesi, Sarıyer"
+    },
+    {
+      "id": "maidens-tower",
+      "name": "Maiden’s Tower (Kız Kulesi)",
+      "category": "historical",
+      "neighborhood": "Salacak, Üsküdar",
+      "lat": 41.0211,
+      "lng": 29.0041,
+      "shortDescription": "Istanbul’s tiny offshore tower sits between legend and maritime history.",
+      "wiki": "This islet has hosted defensive and navigational structures for centuries, with the present tower reflecting successive Ottoman rebuildings. Its changing uses included lighthouse and quarantine functions. Visitors reach the restored landmark by boat to explore its history and look back toward both shores. Confirm the official boat departure point and weather-dependent service before heading out.",
+      "tags": [
+        "bosphorus",
+        "maritime",
+        "panorama"
+      ],
+      "priceLevel": "$$",
+      "address": "Islet off Salacak, Üsküdar"
+    },
+    {
+      "id": "beylerbeyi-palace",
+      "name": "Beylerbeyi Palace",
+      "category": "palace",
+      "neighborhood": "Beylerbeyi, Üsküdar",
+      "lat": 41.0429,
+      "lng": 29.04,
+      "shortDescription": "An elegant imperial summer palace sits on the Asian Bosphorus shore.",
+      "wiki": "Built for Sultan Abdülaziz in the 1860s, Beylerbeyi hosted visiting dignitaries and served as an imperial summer residence. Its rooms combine Ottoman domestic arrangements with European decorative influences. Visitors tour the palace and waterfront gardens beneath the nearby bridge. Check the National Palaces visiting schedule before making the journey from Üsküdar. [Official palace page](https://www.millisaraylar.gov.tr/Lokasyon/4/Beylerbeyi-Sarayi?culture=en).",
+      "tags": [
+        "ottoman",
+        "bosphorus",
+        "gardens"
+      ],
+      "priceLevel": "$$",
+      "address": "Abdullah Ağa Caddesi, Üsküdar"
+    },
+    {
+      "id": "istanbul-archaeology-museums",
+      "name": "Istanbul Archaeology Museums",
+      "category": "museum",
+      "neighborhood": "Sultanahmet",
+      "lat": 41.0117,
+      "lng": 28.9813,
+      "shortDescription": "Ancient sculpture and spectacular sarcophagi fill an imperial museum complex.",
+      "wiki": "The complex grew from the Ottoman imperial museum and is closely associated with archaeologist and painter Osman Hamdi Bey. Its collections span ancient Mediterranean and Near Eastern civilizations, including the celebrated Alexander Sarcophagus. Visitors explore galleries and the leafy courtyard near Topkapı Palace. Allow at least two hours and check which buildings and galleries are open during your visit.",
+      "tags": [
+        "archaeology",
+        "antiquity",
+        "sculpture"
+      ],
+      "priceLevel": "$$",
+      "address": "Osman Hamdi Bey Yokuşu, Gülhane, Fatih"
+    },
+    {
+      "id": "rustem-pasha-mosque",
+      "name": "Rüstem Pasha Mosque",
+      "category": "mosque",
+      "neighborhood": "Eminönü",
+      "lat": 41.0196,
+      "lng": 28.9681,
+      "shortDescription": "Brilliant İznik tiles hide above the bustle of the bazaar streets.",
+      "wiki": "Mimar Sinan designed this sixteenth-century mosque for Grand Vizier Rüstem Pasha. Built on an elevated platform above shops, it is especially admired for its richly varied İznik tile decoration. Visitors climb from the surrounding market streets to a quieter courtyard and prayer hall. Plan your visit between prayers and cover shoulders, legs and hair as required.",
+      "tags": [
+        "ottoman",
+        "sinan",
+        "tiles"
+      ],
+      "priceLevel": "free",
+      "address": "Rüstem Paşa, Hasırcılar Caddesi vicinity, Fatih"
+    },
+    {
+      "id": "hippodrome",
+      "name": "Hippodrome of Constantinople (Sultanahmet Square)",
+      "category": "historical",
+      "neighborhood": "Sultanahmet",
+      "lat": 41.0057,
+      "lng": 28.9757,
+      "shortDescription": "Ancient monuments mark the arena where Constantinople once raced chariots.",
+      "wiki": "The Hippodrome was the Byzantine capital’s major arena for chariot racing, ceremonies and political gatherings. The open square preserves monuments from its central barrier, including the Egyptian Obelisk of Theodosius and the Serpent Column. Visitors can walk between these remains and compare their very different origins. Go early for quieter photographs and combine it with the neighboring mosque and museums.",
+      "tags": [
+        "byzantine",
+        "ancient",
+        "unesco"
+      ],
+      "priceLevel": "free",
+      "address": "Atmeydanı, Fatih"
+    },
+    {
+      "id": "florya-ataturk-mansion",
+      "name": "Florya Atatürk Marine Mansion",
+      "category": "museum",
+      "neighborhood": "Florya, Bakırköy",
+      "lat": 40.9726,
+      "lng": 28.7825,
+      "shortDescription": "Atatürk’s modernist seaside retreat projects out over the Marmara.",
+      "wiki": "Designed by Seyfi Arkan in 1935, this residence was built on piles over the sea for Mustafa Kemal Atatürk. It reflects the early republic’s modern architectural ambitions and Florya’s emergence as a seaside retreat. Visitors can see the coastal setting and, when open, the preserved residential interiors. Confirm museum access before travelling, then combine the visit with a Florya waterfront walk.",
+      "tags": [
+        "republican",
+        "architecture",
+        "sea-view"
+      ],
+      "priceLevel": "$$",
+      "address": "Şenlikköy, Çekmece İstanbul Caddesi vicinity, Bakırköy"
+    },
+    {
+      "id": "kucukcekmece-historic-bridge",
+      "name": "Historic Küçükçekmece Bridge",
+      "category": "historical",
+      "neighborhood": "Küçükçekmece",
+      "lat": 40.9893,
+      "lng": 28.77,
+      "shortDescription": "A modest Ottoman stone bridge preserves the old route west from Istanbul.",
+      "wiki": "This stone-arched crossing stands at the outlet of Küçükçekmece’s lagoon on a route used long before the modern city spread west. The district governor’s account attributes its sixteenth-century rebuilding to Mimar Sinan and records later repairs. Visitors can inspect the masonry and combine it with a short waterside walk. Use pedestrian approaches and distinguish this bridge from the larger Sinan bridge in Büyükçekmece. [District history](https://www.kucukcekmece.gov.tr/kucukcekmece-koprusu).",
+      "tags": [
+        "ottoman",
+        "bridge",
+        "local"
+      ],
+      "priceLevel": "free",
+      "address": "Fatih Mahallesi, lagoon outlet, Küçükçekmece"
+    },
+    {
+      "id": "turkish-islamic-arts-museum",
+      "name": "Turkish and Islamic Arts Museum",
+      "category": "museum",
+      "neighborhood": "Sultanahmet",
+      "lat": 41.0063,
+      "lng": 28.9747,
+      "shortDescription": "Carpets, manuscripts and decorative arts occupy a grand Ottoman palace.",
+      "wiki": "The museum occupies the former palace associated with Grand Vizier İbrahim Pasha beside the Hippodrome. Its collections trace artistic traditions across Islamic societies, with particularly important carpets and manuscripts. Visitors move through historic rooms and courtyards overlooking Sultanahmet Square. Allow around ninety minutes and pair it with the monuments immediately outside.",
+      "tags": [
+        "carpets",
+        "ottoman",
+        "art"
+      ],
+      "priceLevel": "$$",
+      "address": "Binbirdirek, Atmeydanı Caddesi, Fatih"
+    },
+    {
+      "id": "istanbul-modern",
+      "name": "Istanbul Modern",
+      "category": "museum",
+      "neighborhood": "Karaköy",
+      "lat": 41.0261,
+      "lng": 28.9832,
+      "shortDescription": "Modern and contemporary art meets Renzo Piano’s Bosphorus architecture.",
+      "wiki": "Founded in 2004, Istanbul Modern focuses on modern and contemporary art from Turkey alongside international work. It reopened in a new Renzo Piano-designed waterfront building in 2023. Visitors explore collection displays, temporary exhibitions and views of the port and historic peninsula. Check the exhibition program before visiting and allow time for the surrounding waterfront.",
+      "tags": [
+        "contemporary-art",
+        "architecture",
+        "bosphorus"
+      ],
+      "priceLevel": "$$",
+      "address": "Kılıçali Paşa, Tophane İskele Caddesi, Beyoğlu"
+    },
+    {
+      "id": "cagaloglu-hamami",
+      "name": "Cağaloğlu Hamamı",
+      "category": "hamam",
+      "neighborhood": "Cağaloğlu",
+      "lat": 41.0107,
+      "lng": 28.9757,
+      "shortDescription": "An ornate eighteenth-century bath offers a classic marble-and-steam ritual.",
+      "wiki": "Completed in 1741, this double bath was built to generate income for Sultan Mahmud I’s library at Hagia Sophia. Its architecture belongs to the later Ottoman bath-building tradition. Visitors book warming, scrubbing and washing treatments in historic marble chambers. Reserve ahead and compare exactly what each package includes. [Hamam history](https://cagalogluhamami.com.tr/en/history-of-cagaloglu-hammam/).",
+      "tags": [
+        "ottoman",
+        "traditional",
+        "wellness"
+      ],
+      "priceLevel": "$$$",
+      "address": "Prof. Kazım İsmail Gürkan Caddesi 34, Fatih"
+    },
+    {
+      "id": "suleymaniye-hamami",
+      "name": "Süleymaniye Hamamı",
+      "category": "hamam",
+      "neighborhood": "Süleymaniye",
+      "lat": 41.0158,
+      "lng": 28.9656,
+      "shortDescription": "Bathe inside the sixteenth-century complex of Süleyman the Magnificent.",
+      "wiki": "This bath forms part of Sinan’s Süleymaniye complex, completed in the sixteenth century. Its domed chambers preserve the spatial sequence of a traditional Ottoman hamam. Visitors book a heated-marble bathing and scrubbing experience. Confirm the current couples or family admission policy and reserve directly before arriving. [Official hamam](https://suleymaniyehamami.com.tr/).",
+      "tags": [
+        "ottoman",
+        "sinan",
+        "traditional"
+      ],
+      "priceLevel": "$$$",
+      "address": "Mimar Sinan Caddesi 20, Fatih"
+    },
+    {
+      "id": "kilic-ali-pasa-hamami",
+      "name": "Kılıç Ali Paşa Hamamı",
+      "category": "hamam",
+      "neighborhood": "Tophane, Karaköy",
+      "lat": 41.0262,
+      "lng": 28.9806,
+      "shortDescription": "A beautifully restored Sinan bath recalls Tophane’s maritime past.",
+      "wiki": "Admiral Kılıç Ali Pasha commissioned this bath as part of his sixteenth-century mosque complex. It originally served the sailors of the waterfront district. Visitors relax under its large dome before a traditional scrub and foam wash. Book ahead and check the separate bathing time slots for women and men. [Official history](https://www.kilicalipasahamami.com/en/our-story).",
+      "tags": [
+        "ottoman",
+        "sinan",
+        "wellness"
+      ],
+      "priceLevel": "$$$",
+      "address": "Kemankeş Karamustafa Paşa, Hamam Sokak 1, Beyoğlu"
+    },
+    {
+      "id": "cemberlitas-hamami",
+      "name": "Çemberlitaş Hamamı",
+      "category": "hamam",
+      "neighborhood": "Çemberlitaş",
+      "lat": 41.0085,
+      "lng": 28.9716,
+      "shortDescription": "A historic double bath sits beside Constantine’s column.",
+      "wiki": "Nurbanu Sultan commissioned Çemberlitaş Hamamı in 1584 to support her charitable foundation. Its domed bathing rooms are associated with the architectural tradition of Mimar Sinan. Visitors can choose bathing and attendant-assisted treatments in separate sections for women and men. Reserve your preferred treatment and confirm inclusions before paying. [Official visitor information](https://www.cemberlitashamami.com/en/visit/).",
+      "tags": [
+        "ottoman",
+        "traditional",
+        "central"
+      ],
+      "priceLevel": "$$$",
+      "address": "Vezirhan Caddesi 8, Fatih"
+    },
+    {
+      "id": "hurrem-sultan-hamami",
+      "name": "Hürrem Sultan Hamamı",
+      "category": "hamam",
+      "neighborhood": "Sultanahmet",
+      "lat": 41.007,
+      "lng": 28.9789,
+      "shortDescription": "A royal Sinan bath offers a luxurious ritual between Istanbul’s great mosques.",
+      "wiki": "Hürrem Sultan commissioned this double bath in 1556 near Hagia Sophia. Its symmetrical organization and monumental scale express the patronage of the Ottoman court. Today visitors book premium bathing rituals and optional massage treatments. Reserve in advance and choose a package that matches your available time and budget. [Official hamam](https://www.hurremsultanhamami.com/en).",
+      "tags": [
+        "ottoman",
+        "sinan",
+        "luxury"
+      ],
+      "priceLevel": "$$$",
+      "address": "Cankurtaran, Ayasofya Meydanı 2, Fatih"
+    },
+    {
+      "id": "zeyrek-cinili-hamam",
+      "name": "Zeyrek Çinili Hamam",
+      "category": "hamam",
+      "neighborhood": "Zeyrek",
+      "lat": 41.018,
+      "lng": 28.9565,
+      "shortDescription": "A restored Sinan bath combines contemporary comfort with an archaeology museum.",
+      "wiki": "Barbaros Hayreddin Pasha commissioned this sixteenth-century bath from Mimar Sinan. A lengthy modern restoration revealed tile fragments and archaeological remains, now interpreted in an associated museum. Visitors can book bathing rituals and separately explore the site’s water and bathing history. Reserve a treatment ahead and check museum admission separately. [Official complex](https://zeyrekcinilihamam.com/en).",
+      "tags": [
+        "ottoman",
+        "sinan",
+        "restored"
+      ],
+      "priceLevel": "$$$",
+      "address": "Zeyrek, İtfaiye Caddesi 44, Fatih"
+    },
+    {
+      "id": "uskudar-cinili-hamam",
+      "name": "Çinili Hamamı (Üsküdar)",
+      "category": "hamam",
+      "neighborhood": "Üsküdar",
+      "lat": 41.0198,
+      "lng": 29.0283,
+      "shortDescription": "A neighborhood Ottoman bath offers an Asian-side alternative to the grand tourist hamams.",
+      "wiki": "This seventeenth-century bath belongs to the charitable complex commissioned by Kösem Sultan in Üsküdar. It is a different establishment from the restored Çinili Hamam in Zeyrek. Visitors come for the traditional heated-room, washing and scrubbing experience in separate bathing sections. Call ahead to confirm hours for your section and whether towels and scrubbing are included.",
+      "tags": [
+        "ottoman",
+        "traditional",
+        "local"
+      ],
+      "priceLevel": "$$",
+      "address": "Çinili Hamam Sokak 6, Üsküdar"
+    },
+    {
+      "id": "sefa-hamam-sefakoy",
+      "name": "Sefa Hamam (Sefaköy Hamamı)",
+      "category": "hamam",
+      "neighborhood": "Sefaköy, Küçükçekmece",
+      "lat": 41.004,
+      "lng": 28.7964,
+      "shortDescription": "A practical neighborhood bath near Sefaköy, away from the tourist circuit.",
+      "wiki": "Sefa Hamam is a local bath documented in Küçükçekmece’s municipal cultural inventory. The inventory describes it as serving men, making it a different proposition from the city’s bookable luxury hamams. Visitors come for conventional washing and bath services rather than monumental architecture. Call before visiting to confirm current operation, admission and treatment prices. [Municipal inventory](https://kucukcekmece.istanbul/Content/dosya/31990/kckvenvanteriweb-51491-2988854.pdf).",
+      "tags": [
+        "local",
+        "traditional",
+        "budget"
+      ],
+      "priceLevel": "$",
+      "address": "Kemalpaşa, Köprülü Sokak 17A, Küçükçekmece"
+    },
+    {
+      "id": "van-kahvalti-evi-cihangir",
+      "name": "Van Kahvaltı Evi (Cihangir)",
+      "category": "breakfast",
+      "neighborhood": "Cihangir, Beyoğlu",
+      "lat": 41.0303,
+      "lng": 28.9824,
+      "shortDescription": "Van-style cheeses, honey and breakfast spreads anchor a Cihangir favorite.",
+      "wiki": "This breakfast specialist brings the eastern Turkish city of Van’s breakfast tradition to Cihangir. Regional cheeses and generous combinations of savory and sweet dishes distinguish it from an ordinary coffee stop. Visitors settle in for a long kahvaltı with tea and optional hot dishes. Arrive early on weekends and confirm the number of people covered by your chosen spread. [Location listing](https://menuburada.com/van-kahvalti-evi-cihangir-istanbul/).",
+      "tags": [
+        "kahvalti",
+        "regional",
+        "cheese"
+      ],
+      "priceLevel": "$$",
+      "address": "Kılıçali Paşa, Defterdar Yokuşu 52, Beyoğlu"
+    },
+    {
+      "id": "namli-gurme-karakoy",
+      "name": "Namlı Gurme (Karaköy)",
+      "category": "breakfast",
+      "neighborhood": "Karaköy",
+      "lat": 41.0227,
+      "lng": 28.9773,
+      "shortDescription": "Build a breakfast from a famous deli’s cheeses, olives and cured meats.",
+      "wiki": "Namlı Gurme combines a delicatessen with a dining room near Karaköy’s waterfront. Its breakfast appeal lies in selecting products from the counters rather than relying only on a fixed spread. Visitors can assemble a meal around cheeses, olives and other deli specialties. Ask how selected items are priced before ordering, since a large selection can add up quickly. [Official address](https://namligurme.com.tr/iletisim/).",
+      "tags": [
+        "kahvalti",
+        "deli",
+        "cheese"
+      ],
+      "priceLevel": "$$",
+      "address": "Mumhane Caddesi, Atilla İş Hanı 6/A, Beyoğlu"
+    },
+    {
+      "id": "cakmak-kahvalti",
+      "name": "Çakmak Kahvaltı Salonu",
+      "category": "breakfast",
+      "neighborhood": "Beşiktaş",
+      "lat": 41.0448,
+      "lng": 29.0066,
+      "shortDescription": "A longstanding Beşiktaş breakfast address for eggs, tea and a lively street scene.",
+      "wiki": "Çakmak belongs to the cluster of specialist breakfast businesses in Beşiktaş’s central streets. Its appeal is the straightforward Turkish breakfast format, with egg dishes and accompaniments ordered for the table. Visitors can combine breakfast with a walk through the neighborhood market or down to the ferry piers. Go early to avoid the busiest weekend breakfast period. [Address and location](https://menuburada.com/cakmak-kahvalti-salonu-besiktas-istanbul/).",
+      "tags": [
+        "kahvalti",
+        "local",
+        "eggs"
+      ],
+      "priceLevel": "$",
+      "address": "Cihannüma, Akmazçeşme Sokak 20, Beşiktaş"
+    },
+    {
+      "id": "katibim-uskudar",
+      "name": "Katibim",
+      "category": "breakfast",
+      "neighborhood": "Üsküdar",
+      "lat": 41.0255,
+      "lng": 29.0109,
+      "shortDescription": "A well-known Üsküdar breakfast stop faces the Bosphorus waterfront.",
+      "wiki": "Katibim is an established café and restaurant on Üsküdar’s coastal road near Şemsi Paşa. Its breakfast menu brings together cheeses, olives, sweet accompaniments and hot dishes in a waterfront setting. Visitors often combine a leisurely meal with the Salacak shoreline and a ferry crossing. Request a view-facing table and confirm the current breakfast format before ordering. [Breakfast overview](https://yemek.com/uskudar-kahvalti-mekanlari/).",
+      "tags": [
+        "kahvalti",
+        "bosphorus",
+        "sea-view"
+      ],
+      "priceLevel": "$$",
+      "address": "Mimar Sinan, Harem Sahil Yolu 53, Üsküdar"
+    },
+    {
+      "id": "naga-putrika",
+      "name": "Naga Putrika",
+      "category": "breakfast",
+      "neighborhood": "Moda, Kadıköy",
+      "lat": 40.9805,
+      "lng": 29.024,
+      "shortDescription": "Regional Turkish breakfast spreads fill a leafy Moda garden.",
+      "wiki": "Naga Putrika specializes in breakfast in Moda, with menus drawing on different regional food traditions. Its garden setting and sharing spreads make it suited to a slow morning rather than a quick takeaway. Visitors choose among combinations featuring cheeses, eggs and regional accompaniments. Reserve ahead and check the stated serving size and tea allowance for your menu. [Official menu and reservations](https://nagaputrika.com.tr/en/).",
+      "tags": [
+        "kahvalti",
+        "garden",
+        "regional"
+      ],
+      "priceLevel": "$$",
+      "address": "Caferağa, Moda Caddesi 161/A, Kadıköy"
+    },
+    {
+      "id": "privato-cafe",
+      "name": "Privato Cafe",
+      "category": "breakfast",
+      "neighborhood": "Galata, Beyoğlu",
+      "lat": 41.0269,
+      "lng": 28.9742,
+      "shortDescription": "A small Galata café turns Turkish breakfast into a leisurely shared meal.",
+      "wiki": "Privato is a breakfast-focused café close to Galata Tower. Its Turkish breakfast tables bring together savory dishes, cheeses and sweet accompaniments in an intimate setting. Visitors can make it the start of a walk through Galata and the surrounding lanes. Book ahead for a weekend visit, since the space is limited. [Breakfast recommendation](https://www.exceptionalalien.com/gems/privato-cafe).",
+      "tags": [
+        "kahvalti",
+        "cozy",
+        "central"
+      ],
+      "priceLevel": "$$",
+      "address": "Şahkulu, Tımarcı Sokak 3, Beyoğlu"
+    },
+    {
+      "id": "yigit-sofram",
+      "name": "Yiğit Sofram",
+      "category": "breakfast",
+      "neighborhood": "Beyoğlu",
+      "lat": 41.0334,
+      "lng": 28.9815,
+      "shortDescription": "Gözleme and classic Turkish breakfast make a satisfying start near Çukurcuma.",
+      "wiki": "Yiğit Sofram is a small breakfast address on Turnacıbaşı Caddesi, between the İstiklal area and Çukurcuma. It is known for Turkish breakfast dishes and filled gözleme flatbreads. Visitors can order a spread or focus on hot dishes before exploring the neighborhood. Arrive before the late-morning rush and ask about portions before ordering several dishes. [Address and location](https://menuburada.com/yigit-sofram-beyoglu-istanbul/).",
+      "tags": [
+        "kahvalti",
+        "gozleme",
+        "local"
+      ],
+      "priceLevel": "$$",
+      "address": "Kuloğlu, Turnacıbaşı Caddesi 44, Beyoğlu"
+    },
+    {
+      "id": "avcilar-sosyal-tesisleri",
+      "name": "İBB Avcılar Sosyal Tesisleri",
+      "category": "breakfast",
+      "neighborhood": "Denizköşkler, Avcılar",
+      "lat": 40.9764,
+      "lng": 28.7439,
+      "shortDescription": "A municipal seaside breakfast option close to home in Avcılar.",
+      "wiki": "This metropolitan municipality facility occupies green space along Avcılar’s Marmara waterfront. Its restaurant and café provide a local setting for breakfast and other meals, with the coastal park nearby. Visitors can pair a Turkish breakfast with a promenade walk instead of travelling into the old city. Confirm breakfast service times and expect more demand on weekend mornings. [Municipal facility information](https://tesisler.ibb.gov.tr/).",
+      "tags": [
+        "kahvalti",
+        "sea-view",
+        "local"
+      ],
+      "priceLevel": "$",
+      "address": "Denizköşkler, Dr. Sadık Ahmet Caddesi 7, Avcılar"
+    },
+    {
+      "id": "florya-sosyal-tesisleri",
+      "name": "İBB Florya Sosyal Tesisleri",
+      "category": "breakfast",
+      "neighborhood": "Florya, Bakırköy",
+      "lat": 40.9607,
+      "lng": 28.8068,
+      "shortDescription": "A seaside municipal complex makes breakfast an easy western-Istanbul outing.",
+      "wiki": "Florya’s metropolitan municipality complex brings dining and recreation together beside the Marmara Sea. It is a useful nearby alternative for residents of Avcılar and Küçükçekmece, though it lies in Bakırköy. Visitors can have breakfast and continue along the surrounding coastal paths. Check which restaurant or café is serving breakfast and arrive early for a sea-facing table. [Official menu](https://tesislerimiz.ibb.istanbul/wp-content/uploads/2025/12/FLORYA-2026-menu.pdf).",
+      "tags": [
+        "kahvalti",
+        "sea-view",
+        "family-friendly"
+      ],
+      "priceLevel": "$",
+      "address": "Yeşilköy Halkalı Caddesi, Florya waterfront, Bakırköy"
+    },
+    {
+      "id": "grand-bazaar",
+      "name": "Grand Bazaar (Kapalıçarşı)",
+      "category": "market",
+      "neighborhood": "Beyazıt",
+      "lat": 41.0107,
+      "lng": 28.9681,
+      "shortDescription": "Covered lanes unfold into a centuries-old world of jewelry, textiles and carpets.",
+      "wiki": "The Grand Bazaar developed from trading buildings established after the Ottoman conquest. Its covered streets and hans became a central institution of Istanbul’s commercial life. Visitors browse crafts, jewelry, textiles and antiques while exploring the architecture. Compare quality and prices across several shops, and check trading days before making a special journey.",
+      "tags": [
+        "ottoman",
+        "shopping",
+        "crafts"
+      ],
+      "priceLevel": "free",
+      "address": "Beyazıt, Kalpakçılar Caddesi vicinity, Fatih"
+    },
+    {
+      "id": "spice-bazaar",
+      "name": "Spice Bazaar (Mısır Çarşısı)",
+      "category": "market",
+      "neighborhood": "Eminönü",
+      "lat": 41.0165,
+      "lng": 28.9706,
+      "shortDescription": "Spices, tea and Turkish delight perfume a historic covered market.",
+      "wiki": "The seventeenth-century bazaar formed part of the New Mosque’s charitable complex. Its Turkish name, Egyptian Bazaar, reflects historical commercial connections with Egypt. Visitors browse spices, dried fruit, sweets and neighboring food shops. Ask for prices by weight and compare goods outside the covered hall as well as within it.",
+      "tags": [
+        "ottoman",
+        "food",
+        "shopping"
+      ],
+      "priceLevel": "free",
+      "address": "Rüstem Paşa, Eminönü, Fatih"
+    },
+    {
+      "id": "kadikoy-market",
+      "name": "Kadıköy Market (Çarşı)",
+      "category": "market",
+      "neighborhood": "Kadıköy",
+      "lat": 40.9897,
+      "lng": 29.0253,
+      "shortDescription": "Fishmongers, pickle shops and delis make Kadıköy’s lanes a food lover’s walk.",
+      "wiki": "Kadıköy’s central market is a network of commercial streets near the ferry terminals rather than a single enclosed bazaar. Fishmongers, greengrocers, delicatessens and restaurants reflect the Asian shore’s everyday food culture. Visitors browse ingredients, sample snacks and choose a lunch stop. Visit during daytime trading hours and keep clear of working stalls when photographing.",
+      "tags": [
+        "food",
+        "local",
+        "street-food"
+      ],
+      "priceLevel": "free",
+      "address": "Güneşlibahçe and Yağlıkçı İsmail streets, Caferağa, Kadıköy"
+    },
+    {
+      "id": "buyuk-camlica-hill",
+      "name": "Büyük Çamlıca Hill",
+      "category": "viewpoint",
+      "neighborhood": "Üsküdar",
+      "lat": 41.0277,
+      "lng": 29.0681,
+      "shortDescription": "A high green hill opens up broad views across the Bosphorus.",
+      "wiki": "Büyük Çamlıca is one of Istanbul’s prominent natural viewpoints on the Asian side. Its gardens and terraces overlook the Bosphorus, bridges and European skyline. Visitors stroll, photograph the panorama and stop for refreshments. Choose a clear day and bring an extra layer, since the exposed hill can be windy.",
+      "tags": [
+        "panorama",
+        "bosphorus",
+        "gardens"
+      ],
+      "priceLevel": "free",
+      "address": "Kısıklı, Büyük Çamlıca, Üsküdar"
+    },
+    {
+      "id": "pierre-loti-hill",
+      "name": "Pierre Loti Hill",
+      "category": "viewpoint",
+      "neighborhood": "Eyüpsultan",
+      "lat": 41.053,
+      "lng": 28.9339,
+      "shortDescription": "Look down the Golden Horn from a historic hillside café terrace.",
+      "wiki": "This viewpoint takes its popular name from the French writer Pierre Loti, who was associated with Istanbul. It sits above Eyüp’s historic cemetery with an expansive view along the Golden Horn. Visitors reach the terrace on foot or by the short cable car and may stop for tea. Come early for a quieter view; the public outlook is free, while transport and refreshments cost extra.",
+      "tags": [
+        "golden-horn",
+        "panorama",
+        "sunset"
+      ],
+      "priceLevel": "free",
+      "address": "İdris Köşkü Caddesi vicinity, Eyüpsultan"
+    },
+    {
+      "id": "eminonu-ferry-waterfront",
+      "name": "Eminönü Ferry Waterfront",
+      "category": "viewpoint",
+      "neighborhood": "Eminönü",
+      "lat": 41.0185,
+      "lng": 28.9748,
+      "shortDescription": "Watch the ferries weave between Galata Bridge and the Bosphorus.",
+      "wiki": "Eminönü has long been one of Istanbul’s key waterfront trading and passenger-transport districts. Its ferry landings frame views of Galata, the Golden Horn entrance and the Asian shore. Visitors can watch boats from the quay or board a scheduled public ferry for changing skyline views. Check the operator’s route and pier signs before boarding; the quay is free, but ferry travel requires a fare.",
+      "tags": [
+        "ferries",
+        "bosphorus",
+        "sea-view"
+      ],
+      "priceLevel": "free",
+      "address": "Eminönü passenger quays east of Galata Bridge, Fatih"
+    },
+    {
+      "id": "gulhane-park",
+      "name": "Gülhane Park",
+      "category": "park",
+      "neighborhood": "Sirkeci, Fatih",
+      "lat": 41.013,
+      "lng": 28.981,
+      "shortDescription": "Shaded palace grounds offer a green pause beside the old city’s museums.",
+      "wiki": "Gülhane once formed part of Topkapı Palace’s outer grounds before becoming a public park. Its name is associated with the imperial rose garden and the nineteenth-century reform edict proclaimed here. Visitors follow broad tree-lined paths between Sirkeci and the palace area. Come in the morning for a peaceful walk and combine it with the nearby archaeology museums.",
+      "tags": [
+        "gardens",
+        "ottoman",
+        "shade"
+      ],
+      "priceLevel": "free",
+      "address": "Cankurtaran, Kennedy Caddesi and Alemdar Caddesi approaches, Fatih"
+    },
+    {
+      "id": "yildiz-park",
+      "name": "Yıldız Park",
+      "category": "park",
+      "neighborhood": "Beşiktaş",
+      "lat": 41.0492,
+      "lng": 29.0154,
+      "shortDescription": "Wooded slopes and Ottoman pavilions create a leafy escape above the Bosphorus.",
+      "wiki": "This park preserves part of the landscape associated with the Yıldız imperial estate. Its wooded hills, ponds and pavilions contrast with the busy roads along the shore. Visitors walk the paths, find picnic spots and admire historic buildings in the grounds. Wear comfortable shoes because many routes climb steeply.",
+      "tags": [
+        "ottoman",
+        "woodland",
+        "picnic"
+      ],
+      "priceLevel": "free",
+      "address": "Yıldız, Çırağan Caddesi entrance, Beşiktaş"
+    },
+    {
+      "id": "emirgan-park",
+      "name": "Emirgan Park",
+      "category": "park",
+      "neighborhood": "Emirgan, Sarıyer",
+      "lat": 41.1081,
+      "lng": 29.0536,
+      "shortDescription": "Historic pavilions and spring tulip beds brighten a large Bosphorus-side park.",
+      "wiki": "Emirgan’s landscaped grounds contain nineteenth-century pavilions and mature trees on slopes above the European shore. The park is particularly associated with Istanbul’s spring tulip displays. Visitors walk between gardens, ponds and pavilion cafés throughout the year. Visit on a weekday during tulip season to reduce crowding, and allow for uphill paths.",
+      "tags": [
+        "gardens",
+        "tulips",
+        "bosphorus"
+      ],
+      "priceLevel": "free",
+      "address": "Reşitpaşa, Emirgan Korusu, Sarıyer"
+    },
+    {
+      "id": "moda-coastal-park",
+      "name": "Moda Coastal Park and Walk",
+      "category": "park",
+      "neighborhood": "Moda, Kadıköy",
+      "lat": 40.9782,
+      "lng": 29.0257,
+      "shortDescription": "A relaxed shoreline walk pairs Marmara views with Moda’s neighborhood cafés.",
+      "wiki": "The park follows the Marmara shoreline below Moda, a long-established residential quarter of Kadıköy. Lawns and paths make it a popular place for everyday recreation and meeting friends. Visitors walk, sit by the water and continue into the neighborhood for food or coffee. Late afternoon brings pleasant light, but share the paths carefully with runners and cyclists.",
+      "tags": [
+        "waterfront",
+        "sunset",
+        "local"
+      ],
+      "priceLevel": "free",
+      "address": "Moda shoreline below Caferağa, Kadıköy"
+    },
+    {
+      "id": "avcilar-sahil-parki",
+      "name": "Avcılar Sahil Parkı",
+      "category": "park",
+      "neighborhood": "Avcılar",
+      "lat": 40.9713,
+      "lng": 28.7417,
+      "shortDescription": "A long Marmara promenade offers a simple local escape for walking and sunsets.",
+      "wiki": "Avcılar’s coastal park forms part of a broad chain of public recreation spaces along the Marmara shore. It serves local residents with walking routes, lawns and places to sit by the water. Visitors can take a short stroll or link several waterfront sections into a longer outing. Aim for late afternoon in hot weather and bring a windproof layer outside summer.",
+      "tags": [
+        "waterfront",
+        "local",
+        "sunset"
+      ],
+      "priceLevel": "free",
+      "address": "Avcılar waterfront, Denizköşkler coastal park section"
+    },
+    {
+      "id": "kucukcekmece-lakeside-walk",
+      "name": "Küçükçekmece Lakeside Walk",
+      "category": "park",
+      "neighborhood": "Küçükçekmece",
+      "lat": 40.995,
+      "lng": 28.771,
+      "shortDescription": "An easy lakeside promenade offers open water views close to the western suburbs.",
+      "wiki": "Lake Küçükçekmece is a coastal lagoon linked to the Marmara Sea through a narrow outlet. The public promenade on its southeastern shore offers a different landscape from Istanbul’s better-known Bosphorus waterfront. Visitors walk beside the water, watch birds and continue south toward the historic bridge. Treat this as a walking stop and visit in daylight; the pin marks the promenade area rather than a single entrance.",
+      "tags": [
+        "lake",
+        "walking",
+        "local"
+      ],
+      "priceLevel": "free",
+      "address": "Fatih Mahallesi, Yalı Caddesi lakeshore, Küçükçekmece"
+    }
+  ]
+}
