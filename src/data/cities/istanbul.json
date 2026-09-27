@@ -804,6 +804,546 @@
       ],
       "priceLevel": "free",
       "address": "Fatih Mahallesi, Yalı Caddesi lakeshore, Küçükçekmece"
+    },
+    {
+      "id": "beyti-florya",
+      "name": "Beyti",
+      "category": "restaurant",
+      "neighborhood": "Florya",
+      "lat": 40.97332,
+      "lng": 28.79399,
+      "shortDescription": "An Istanbul institution for expertly grilled meat in elegant Ottoman-inspired rooms.",
+      "wiki": "Beyti is a family-run meat restaurant whose history began in 1945 and whose present home is in Florya. Grilled lamb, beef and the namesake Beyti kebab are central to its reputation. Reserve ahead for a leisurely dinner, especially with a group. Google rating snapshot: 4.5/5, as displayed by the [rating source](https://restaurantguru.com/beyti-Istanbul-m8988) consulted on 27 September 2026.",
+      "tags": [
+        "turkish",
+        "kebab",
+        "classic"
+      ],
+      "address": "Şenlikköy, Orman Sokak 6–8, Bakırköy",
+      "priceLevel": "$$$",
+      "rating": 4.5
+    },
+    {
+      "id": "ciya-sofrasi-kadikoy",
+      "name": "Çiya Sofrası",
+      "category": "restaurant",
+      "neighborhood": "Kadıköy",
+      "lat": 40.989275,
+      "lng": 29.024225,
+      "shortDescription": "A changing treasury of regional Anatolian dishes in Kadıköy’s food market.",
+      "wiki": "Chef Musa Dağdeviren made Çiya known for preserving regional recipes from across Anatolia. The changing selection includes vegetable dishes, soups and slow-cooked meat dishes alongside less familiar local specialties. Look over the day’s dishes before ordering and ask how portions are priced. Google rating snapshot: 4.0/5, as displayed by the [rating source](https://restaurantguru.com/amp/Ciya-Sofrasi-Istanbul-2) consulted on 27 September 2026.",
+      "tags": [
+        "anatolian",
+        "regional",
+        "market"
+      ],
+      "address": "Caferağa, Güneşlibahçe Sokak 43, Kadıköy",
+      "priceLevel": "$$",
+      "rating": 4.0
+    },
+    {
+      "id": "karakoy-lokantasi",
+      "name": "Karaköy Lokantası",
+      "category": "restaurant",
+      "neighborhood": "Karaköy",
+      "lat": 41.024592,
+      "lng": 28.979919,
+      "shortDescription": "Turquoise tiles frame Turkish lunches and generous evenings of meze.",
+      "wiki": "Karaköy Lokantası combines the Turkish tradesmen’s lunch tradition with a more leisurely evening meyhane experience. Cooked dishes define lunch, while meze, seafood and rakı are prominent at dinner. Book dinner ahead and use the current Kemankeş Caddesi 57 address, since older listings show its former location. Google rating snapshot: 4.3/5, as displayed by the [rating source](https://www.google.com/maps/search/D%C3%A9jeuner%20au%20Karak%C3%B6y%20Lokantas%C4%B1%2C%20Istanbul%2C%20Turquie) consulted on 27 September 2026.",
+      "tags": [
+        "turkish",
+        "meze",
+        "raki"
+      ],
+      "address": "Kemankeş Caddesi 57, Beyoğlu",
+      "priceLevel": "$$",
+      "rating": 4.3
+    },
+    {
+      "id": "balikci-sabahattin",
+      "name": "Balıkçı Sabahattin",
+      "category": "restaurant",
+      "neighborhood": "Sultanahmet",
+      "lat": 41.004483,
+      "lng": 28.980508,
+      "shortDescription": "Simply prepared fish and seafood in a historic Cankurtaran house.",
+      "wiki": "Balıkçı Sabahattin is a family seafood restaurant in the old city’s Cankurtaran neighborhood. Grilled fish, mussels and cold starters are the main attractions in its traditional house setting. Reserve for dinner and confirm the weight and price before ordering a whole fish. Google rating snapshot: 4.4/5, as displayed by the [rating source](https://www.mekanzade.com/mekanlar/balikci-sabahattin) consulted on 27 September 2026.",
+      "tags": [
+        "seafood",
+        "historic-house",
+        "meze"
+      ],
+      "address": "Cankurtaran, Şehit Hasan Kuyu Sokak 1, Fatih",
+      "priceLevel": "$$$",
+      "rating": 4.4
+    },
+    {
+      "id": "mikla-pera",
+      "name": "Mikla",
+      "category": "restaurant",
+      "neighborhood": "Beyoğlu",
+      "lat": 41.031135,
+      "lng": 28.973991,
+      "shortDescription": "Contemporary Anatolian fine dining above the rooftops of Pera.",
+      "wiki": "Mikla opened in 2005 under chef Mehmet Gürs and helped establish Istanbul’s contemporary fine-dining scene. Its cooking interprets Anatolian ingredients and traditions in a modern tasting-menu format, with broad views from The Marmara Pera. Book well ahead and mention dietary requirements when reserving. Google rating snapshot: 4.3/5, as displayed by the [rating source](https://wanderlog.com/pt/place/details/445461/mikla) consulted on 27 September 2026.",
+      "tags": [
+        "fine-dining",
+        "anatolian",
+        "rooftop"
+      ],
+      "address": "The Marmara Pera, Meşrutiyet Caddesi 15, Beyoğlu",
+      "priceLevel": "$$$",
+      "rating": 4.3
+    },
+    {
+      "id": "avcilar-kebap-hatay-durum",
+      "name": "Avcılar Kebap – Hatay Dürüm Evi",
+      "category": "restaurant",
+      "neighborhood": "Avcılar",
+      "lat": 40.983729,
+      "lng": 28.717783,
+      "shortDescription": "A neighborhood stop for kebabs and filling wraps close to central Avcılar.",
+      "wiki": "This casual kebab shop serves the Merkez neighborhood of Avcılar on Namık Kemal Caddesi. Kebabs and dürüm wraps make it a practical local meal stop away from the central tourist districts. Ask which kebabs are available and specify your preferred spice level before ordering. Google rating snapshot: 4.5/5, as displayed by the [rating source](https://restaurantguru.com/Avcilar-Kebap-Hatay-Durum-Evi-Istanbul) consulted on 27 September 2026.",
+      "tags": [
+        "kebab",
+        "budget",
+        "local"
+      ],
+      "address": "Merkez, Namık Kemal Caddesi 59, Avcılar",
+      "priceLevel": "$",
+      "rating": 4.5
+    },
+    {
+      "id": "muslum-boztas-sefakoy",
+      "name": "Ünlü Çiğköfteci Müslüm Boztaş Sefaköy",
+      "category": "restaurant",
+      "neighborhood": "Sefaköy",
+      "lat": 41.001004,
+      "lng": 28.797248,
+      "shortDescription": "Hand-prepared çiğköfte makes an inexpensive Sefaköy snack.",
+      "wiki": "This Sefaköy branch specializes in çiğköfte and serves the neighborhood around Halkalı Caddesi. Portions with greens and takeaway wraps suit a quick, informal meal. Ask about ingredients and heat level before ordering, since çiğköfte recipes and sauces vary. Google rating snapshot: 4.4/5, as displayed by the [rating source](https://tr.restaurantguru.com/Uenlu-Cigkofteci-Muslum-Boztas-Sefakoy-Istanbul) consulted on 27 September 2026.",
+      "tags": [
+        "cigkofte",
+        "budget",
+        "takeaway"
+      ],
+      "address": "Kemalpaşa, Halkalı Caddesi 109/A, Küçükçekmece",
+      "priceLevel": "$",
+      "rating": 4.4
+    },
+    {
+      "id": "neolokal-salt-galata",
+      "name": "Neolokal",
+      "category": "restaurant",
+      "neighborhood": "Karaköy",
+      "lat": 41.02387,
+      "lng": 28.97347,
+      "shortDescription": "Anatolian culinary memory becomes contemporary tasting menus at SALT Galata.",
+      "wiki": "Chef Maksut Aşkar’s Neolokal occupies the historic former Ottoman Bank building that houses SALT Galata. Its contemporary cooking draws on regional Turkish recipes, seasonal produce and traditional techniques. Reserve in advance and check the current tasting-menu options before committing to an evening. Google rating snapshot: 4.3/5, as displayed by the [rating source](https://restaurantguru.com/Neolokal-Istanbul) consulted on 27 September 2026.",
+      "tags": [
+        "fine-dining",
+        "anatolian",
+        "tasting-menu"
+      ],
+      "address": "SALT Galata, Bankalar Caddesi 11, Beyoğlu",
+      "priceLevel": "$$$",
+      "rating": 4.3
+    },
+    {
+      "id": "mahir-lokantasi-osmanbey",
+      "name": "Mahir Lokantası",
+      "category": "restaurant",
+      "neighborhood": "Şişli",
+      "lat": 41.052864,
+      "lng": 28.987082,
+      "shortDescription": "Lahmacun, içli köfte and regional home cooking in Osmanbey.",
+      "wiki": "Mahir Lokantası is an unpretentious restaurant in the Osmanbey area, particularly associated with lahmacun and boiled içli köfte. Its repertoire also includes soups and changing cooked dishes from Turkey’s regional kitchens. Arrive early for lunch to see the widest selection and avoid the busiest queue. Google rating snapshot: 4.4/5, as displayed by the [rating source](https://restaurantguru.com/Mahir-Lokantasi-Istanbul) consulted on 27 September 2026.",
+      "tags": [
+        "lahmacun",
+        "regional",
+        "local"
+      ],
+      "address": "Cumhuriyet, Tavukçu Fethi Sokak 28, Şişli",
+      "priceLevel": "$$",
+      "rating": 4.4
+    },
+    {
+      "id": "sehzade-cag-kebap",
+      "name": "Şehzade Cağ Kebap",
+      "category": "restaurant",
+      "neighborhood": "Sirkeci",
+      "lat": 41.013978,
+      "lng": 28.975257,
+      "shortDescription": "Charcoal-roasted lamb comes straight from the horizontal spit to your skewer.",
+      "wiki": "Şehzade specializes in cağ kebabı, the horizontal-spit lamb kebab associated with Erzurum. Skewers are served with lavash and simple accompaniments in the busy Hocapaşa food streets. Check how many skewers your order includes, as additional skewers are charged separately. Google rating snapshot: 4.2/5, as displayed by the [rating source](https://tr.restaurantguru.com/Sehzade-Cag-Kebap-Istanbul) consulted on 27 September 2026.",
+      "tags": [
+        "cag-kebab",
+        "lamb",
+        "charcoal"
+      ],
+      "address": "Hocapaşa Camii Sokak 6, Fatih",
+      "priceLevel": "$$",
+      "rating": 4.2
+    },
+    {
+      "id": "karadeniz-doner-asim-usta",
+      "name": "Karadeniz Döner Asım Usta",
+      "category": "restaurant",
+      "neighborhood": "Beşiktaş",
+      "lat": 41.043543,
+      "lng": 29.004002,
+      "shortDescription": "A celebrated Beşiktaş counter devoted to freshly sliced döner.",
+      "wiki": "Karadeniz Döner Asım Usta is a long-established specialist in the streets of Beşiktaş’s market district. Its appeal is the freshly carved meat, served in straightforward sandwiches or portions rather than an extensive restaurant menu. Go around lunchtime, since the daily spit can sell out before the evening. Google rating snapshot: 4.2/5, as displayed by the [rating source](https://www.google.com/maps/search/Karadeniz%20D%C3%B6ner%20As%C4%B1m%20Usta) consulted on 27 September 2026.",
+      "tags": [
+        "doner",
+        "budget",
+        "street-food"
+      ],
+      "address": "Sinanpaşa, Köyiçi Caddesi 6, Beşiktaş",
+      "priceLevel": "$",
+      "rating": 4.2
+    },
+    {
+      "id": "banyan-ortakoy",
+      "name": "Banyan",
+      "category": "restaurant",
+      "neighborhood": "Ortaköy",
+      "lat": 41.047455,
+      "lng": 29.025232,
+      "shortDescription": "Asian-inspired dishes and cocktails overlook Ortaköy and the Bosphorus.",
+      "wiki": "Banyan is an established Ortaköy restaurant with elevated views over the waterfront. Its menu draws on Asian flavors, including sushi and Southeast Asian influences, alongside a substantial cocktail offering. Reserve ahead and specifically request a view-facing table if the outlook matters to you. Google rating snapshot: 4.2/5, as displayed by the [rating source](https://wanderlog.com/place/details/393155/banyan-restaurant) consulted on 27 September 2026.",
+      "tags": [
+        "asian",
+        "bosphorus",
+        "romantic"
+      ],
+      "address": "Yıldız, Salhane Sokak 3, Beşiktaş",
+      "priceLevel": "$$$",
+      "rating": 4.2
+    },
+    {
+      "id": "ismet-baba-kuzguncuk",
+      "name": "İsmet Baba",
+      "category": "restaurant",
+      "neighborhood": "Üsküdar",
+      "lat": 41.036675,
+      "lng": 29.029275,
+      "shortDescription": "An old-school fish restaurant almost level with the Bosphorus.",
+      "wiki": "İsmet Baba has served seafood in Kuzguncuk since 1951. Its traditional dining room places the emphasis on fish, meze and the passing Bosphorus traffic rather than elaborate presentation. Reserve a waterside table and ask which fish is in season before choosing. Google rating snapshot: 4.1/5, as displayed by the [rating source](https://restaurantguru.com/Ismet-Baba-Istanbul) consulted on 27 September 2026.",
+      "tags": [
+        "seafood",
+        "bosphorus",
+        "meze"
+      ],
+      "address": "Kuzguncuk Çarşı Caddesi 1, Üsküdar",
+      "priceLevel": "$$$",
+      "rating": 4.1
+    },
+    {
+      "id": "nato-lokantasi-1952",
+      "name": "Nato Lokantası 1952",
+      "category": "restaurant",
+      "neighborhood": "Karaköy",
+      "lat": 41.024704,
+      "lng": 28.978165,
+      "shortDescription": "A compact Karaköy institution for a proper Turkish working lunch.",
+      "wiki": "Nato Lokantası dates to 1952 and belongs to Istanbul’s esnaf lokantası tradition of straightforward meals for local workers. Its changing counter of soups, stews, rice and meat dishes rewards a look before ordering. Visit at lunchtime and ask what has just come out of the kitchen. Google rating snapshot: 4.7/5, as displayed by the [rating source](https://tr.restaurantguru.com/Nato-Istanbul) consulted on 27 September 2026.",
+      "tags": [
+        "turkish",
+        "home-cooking",
+        "budget"
+      ],
+      "address": "Kemankeş Karamustafapaşa, Karanlık Fırın Sokak 4, Beyoğlu",
+      "priceLevel": "$",
+      "rating": 4.7
+    },
+    {
+      "id": "kumkapi-kalamar",
+      "name": "Kumkapı Kalamar Restaurant",
+      "category": "restaurant",
+      "neighborhood": "Kumkapı",
+      "lat": 41.003789,
+      "lng": 28.964955,
+      "shortDescription": "Fish, calamari and meze amid Kumkapı’s lively restaurant streets.",
+      "wiki": "Kalamar is a seafood restaurant in Kumkapı, the old city district associated with fish restaurants and evening dining. Calamari, shrimp, grilled fish and cold meze anchor the experience. Confirm fish prices and any music or service charges before ordering, especially for a group. Google rating snapshot: 4.6/5, as displayed by the [rating source](https://wanderlog.com/place/details/2251528/kumkap%C4%B1-kalamar-restaurant) consulted on 27 September 2026.",
+      "tags": [
+        "seafood",
+        "meze",
+        "lively"
+      ],
+      "address": "Şehsuvar Bey, Çaparız Sokak 21–27, Fatih",
+      "priceLevel": "$$",
+      "rating": 4.6
+    },
+    {
+      "id": "latife-hanim-meyhanesi",
+      "name": "Latife Hanım 1923",
+      "category": "restaurant",
+      "neighborhood": "Beyoğlu",
+      "lat": 41.032255,
+      "lng": 28.98302,
+      "shortDescription": "Meze and rakı fuel a convivial evening near Cihangir.",
+      "wiki": "Latife Hanım is a Beyoğlu meyhane serving the traditional combination of shared starters, seafood and rakı. The social atmosphere is part of the attraction, making it better suited to a long dinner than a quick meal. Reserve ahead and ask about the evening’s music and any fixed-menu arrangement. Google rating snapshot: 4.1/5, as displayed by the [rating source](https://wanderlog.com/tr/place/details/1531391/latife-han%C4%B1m-1923) consulted on 27 September 2026.",
+      "tags": [
+        "meyhane",
+        "meze",
+        "raki"
+      ],
+      "address": "Kuloğlu, Sıraselviler Caddesi 66/A, Beyoğlu",
+      "priceLevel": "$$",
+      "rating": 4.1
+    },
+    {
+      "id": "geyik-cihangir",
+      "name": "Geyik Coffee Roastery & Cocktail Bar",
+      "category": "bar",
+      "neighborhood": "Beyoğlu",
+      "lat": 41.030191,
+      "lng": 28.983723,
+      "shortDescription": "Coffee gives way to cocktails at this intimate Cihangir hangout.",
+      "wiki": "Geyik combines daytime coffee culture with a compact neighborhood cocktail bar on Akarsu Yokuşu. Creative drinks and pavement-side socializing make it a familiar part of Cihangir nightlife. Arrive early in the evening if you want a seat, as the small space becomes busy. Google rating snapshot: 4.3/5, as displayed by the [rating source](https://wanderlog.com/fr/place/details/424739/geyik) consulted on 27 September 2026.",
+      "tags": [
+        "craft-cocktails",
+        "neighborhood",
+        "coffee"
+      ],
+      "address": "Cihangir, Akarsu Yokuşu 22/A, Beyoğlu",
+      "priceLevel": "$$",
+      "rating": 4.3
+    },
+    {
+      "id": "balkon-asmalimescit",
+      "name": "Balkon Restaurant & Bar",
+      "category": "bar",
+      "neighborhood": "Beyoğlu",
+      "lat": 41.029833,
+      "lng": 28.973917,
+      "shortDescription": "A relaxed Pera rooftop pairs drinks with a sweeping city panorama.",
+      "wiki": "Balkon is a rooftop restaurant and bar above the streets of Asmalımescit. Visitors come for drinks, casual food and views toward the Golden Horn and the old city. Arrive before sunset to improve your chances of a terrace seat and bring a layer for breezy evenings. Google rating snapshot: 4.3/5, as displayed by the [rating source](https://wanderlog.com/tr/place/details/1456600) consulted on 27 September 2026.",
+      "tags": [
+        "rooftop",
+        "sunset",
+        "city-view"
+      ],
+      "address": "Asmalı Mescit, Şehbender Sokak 5, Beyoğlu",
+      "priceLevel": "$$",
+      "rating": 4.3
+    },
+    {
+      "id": "joker-no19-besiktas",
+      "name": "Joker No19",
+      "category": "bar",
+      "neighborhood": "Beşiktaş",
+      "lat": 41.042002,
+      "lng": 29.004659,
+      "shortDescription": "A lively Beşiktaş pub for beer, cocktails and a long evening with friends.",
+      "wiki": "Joker No19 is a spacious bar and casual restaurant in central Beşiktaş. Beer, cocktails and familiar pub food make it an easy gathering place after exploring the market streets. Choose an earlier weekday visit for a quieter conversation, since weekend evenings are lively. Google rating snapshot: 4.3/5, as displayed by the [rating source](https://lostin.istanbul/places/joker-no19) consulted on 27 September 2026.",
+      "tags": [
+        "pub",
+        "beer",
+        "cocktails"
+      ],
+      "address": "Sinanpaşa, Beşiktaş Caddesi 19, Beşiktaş",
+      "priceLevel": "$$",
+      "rating": 4.3
+    },
+    {
+      "id": "solera-winery-beyoglu",
+      "name": "Solera Winery",
+      "category": "bar",
+      "neighborhood": "Beyoğlu",
+      "lat": 41.03203,
+      "lng": 28.9782,
+      "shortDescription": "A small, welcoming wine bar for discovering Turkish grapes.",
+      "wiki": "Solera opened in 2011 with a focus on sharing Turkey’s wine culture. Its intimate setting suits tasting local wines alongside cheese and other small accompaniments. Ask the staff for a Turkish grape variety that matches your preferences and book ahead for a small group. Google rating snapshot: 4.8/5, as displayed by the [rating source](https://app.wanderlog.com/place/details/1478037/solera-winery) consulted on 27 September 2026.",
+      "tags": [
+        "wine",
+        "turkish-wine",
+        "intimate"
+      ],
+      "address": "Tomtom, Yeni Çarşı Caddesi 44, Beyoğlu",
+      "priceLevel": "$$",
+      "rating": 4.8
+    },
+    {
+      "id": "the-bank-roof-bar",
+      "name": "The Bank Roof Bar",
+      "category": "bar",
+      "neighborhood": "Karaköy",
+      "lat": 41.02353,
+      "lng": 28.97438,
+      "shortDescription": "Elegant rooftop cocktails look across the Golden Horn to the old city.",
+      "wiki": "The Bank Roof Bar sits atop The Bank Hotel, a converted historic bank building in Karaköy. Classic and signature cocktails accompany views of the old city skyline, with light dishes available alongside drinks. Reserve around sunset and check terrace availability in poor weather. Google rating snapshot: 4.6/5, as displayed by the [rating source](https://wanderlog.com/place/details/6201328/the-bank-roof-bar) consulted on 27 September 2026.",
+      "tags": [
+        "rooftop",
+        "craft-cocktails",
+        "skyline"
+      ],
+      "address": "Arap Cami, Bankalar Caddesi 5, Beyoğlu",
+      "priceLevel": "$$$",
+      "rating": 4.6
+    },
+    {
+      "id": "viktor-levi-kadikoy",
+      "name": "Viktor Levi Şarap Evi",
+      "category": "bar",
+      "neighborhood": "Kadıköy",
+      "lat": 40.987314,
+      "lng": 29.026,
+      "shortDescription": "Wine and a leafy garden create an easygoing Moda evening.",
+      "wiki": "Viktor Levi Şarap Evi is a longstanding Kadıköy wine venue known for its garden and relaxed dining atmosphere. Wines, cheese plates and a broader food menu make it suitable for either a drink or a full evening. Request a garden table when booking and consider a weekday for a calmer visit. Google rating snapshot: 4.4/5, as displayed by the [rating source](https://restaurantguru.com/Viktor-Levi-Istanbul) consulted on 27 September 2026.",
+      "tags": [
+        "wine",
+        "garden",
+        "neighborhood"
+      ],
+      "address": "Caferağa, Damacı Sokak 4, Kadıköy",
+      "priceLevel": "$$",
+      "rating": 4.4
+    },
+    {
+      "id": "tarihi-cumhuriyet-meyhanesi",
+      "name": "Tarihi Cumhuriyet Meyhanesi",
+      "category": "bar",
+      "neighborhood": "Beyoğlu",
+      "lat": 41.034757,
+      "lng": 28.976965,
+      "shortDescription": "A classic Beyoğlu meyhane for rakı, meze and live music.",
+      "wiki": "Tarihi Cumhuriyet Meyhanesi is one of the established taverns around Beyoğlu’s fish market and Nevizade streets. Shared meze, rakı and live Turkish music define its sociable evening atmosphere. Reserve for busy nights and ask whether your table is covered by a set menu or music charge. Google rating snapshot: 4.2/5, as displayed by the [rating source](https://wanderlog.com/place/details/2468794/tarihi-cumhuriyet-meyhanesi) consulted on 27 September 2026.",
+      "tags": [
+        "meyhane",
+        "raki",
+        "live-music"
+      ],
+      "address": "Sahne Sokak / Kamer Hatun Caddesi area, Beyoğlu",
+      "priceLevel": "$$",
+      "rating": 4.2
+    },
+    {
+      "id": "nardis-jazz-club",
+      "name": "Nardis Jazz Club",
+      "category": "bar",
+      "neighborhood": "Galata",
+      "lat": 41.025262,
+      "lng": 28.973822,
+      "shortDescription": "An intimate listening room brings live jazz to the foot of Galata Tower.",
+      "wiki": "Nardis is a dedicated jazz club near Galata Tower, presenting Turkish and visiting musicians in a compact room. The attraction is the live performance, with drinks accompanying a seated listening experience. Check the performance calendar, reserve a seat and budget for the concert admission as well as drinks. Google rating snapshot: 4.5/5, as displayed by the [rating source](https://wanderlog.com/list/geoCategory/6394/best-bars-and-drinks-in-istanbul) consulted on 27 September 2026.",
+      "tags": [
+        "jazz",
+        "live-music",
+        "intimate"
+      ],
+      "address": "Bereketzade, Galata Kulesi Sokak 8, Beyoğlu",
+      "priceLevel": "$$",
+      "rating": 4.5
+    },
+    {
+      "id": "mandabatmaz-beyoglu",
+      "name": "Mandabatmaz",
+      "category": "cafe",
+      "neighborhood": "Beyoğlu",
+      "lat": 41.03276,
+      "lng": 28.97617,
+      "shortDescription": "Exceptionally thick Turkish coffee in a tiny passage off İstiklal.",
+      "wiki": "Mandabatmaz has been associated with traditional Turkish coffee since 1967. Its name evokes the famously thick foam, and the small premises keep the focus on the coffee itself. Specify your sugar preference when ordering because sugar is added during preparation. Google rating snapshot: 4.6/5, as displayed by the [rating source](https://wanderlog.com/place/details/398237/mandabatmaz) consulted on 27 September 2026.",
+      "tags": [
+        "turkish-coffee",
+        "classic",
+        "budget"
+      ],
+      "address": "Asmalı Mescit, Olivya Geçidi 1/A, Beyoğlu",
+      "priceLevel": "$",
+      "rating": 4.6
+    },
+    {
+      "id": "kronotrop-cihangir",
+      "name": "Kronotrop Cihangir",
+      "category": "cafe",
+      "neighborhood": "Beyoğlu",
+      "lat": 41.031412,
+      "lng": 28.982385,
+      "shortDescription": "Specialty espresso and filter coffee on a small Cihangir corner.",
+      "wiki": "Kronotrop is part of Istanbul’s specialty-coffee scene, with this branch serving the Cihangir and Firuzağa area. Espresso-based drinks and filter preparations offer an alternative to the city’s traditional Turkish coffeehouses. Ask which beans are available for filter coffee and visit outside the busiest afternoon hours for a seat. Google rating snapshot: 4.3/5, as displayed by the [rating source](https://wanderlog.com/place/details/731810/kronotrop-cihangir) consulted on 27 September 2026.",
+      "tags": [
+        "specialty-coffee",
+        "espresso",
+        "filter-coffee"
+      ],
+      "address": "Kuloğlu, Firuzağa Cami Sokak 2/B, Beyoğlu",
+      "priceLevel": "$$",
+      "rating": 4.3
+    },
+    {
+      "id": "karakoy-gulluoglu-nadir",
+      "name": "Karaköy Güllüoğlu – Nadir Güllü",
+      "category": "cafe",
+      "neighborhood": "Karaköy",
+      "lat": 41.024886,
+      "lng": 28.980976,
+      "shortDescription": "Pistachio-filled layers of baklava at one of Istanbul’s best-known sweet shops.",
+      "wiki": "Karaköy Güllüoğlu opened in Istanbul in 1949 and is closely associated with the city’s baklava tradition. Pistachio and walnut varieties are sold by portion or weight, with tea providing a natural accompaniment. Use the current Kemankeş Caddesi 67 address and try a small mixed selection before buying a takeaway box. Google rating snapshot: 4.4/5, as displayed by the [rating source](https://wanderlog.com/place/details/43840) consulted on 27 September 2026.",
+      "tags": [
+        "baklava",
+        "dessert",
+        "classic"
+      ],
+      "address": "Kemankeş Caddesi 67, Beyoğlu",
+      "priceLevel": "$$",
+      "rating": 4.4
+    },
+    {
+      "id": "espressolab-avcilar-collet",
+      "name": "Espressolab Avcılar Collet",
+      "category": "cafe",
+      "neighborhood": "Avcılar",
+      "lat": 41.011584,
+      "lng": 28.699607,
+      "shortDescription": "A contemporary local coffee stop in the Collet Avcılar development.",
+      "wiki": "This Espressolab branch serves the Firuzköy side of Avcılar rather than the tourist center. Espresso drinks, tea and cakes make it a convenient place for a casual coffee break. Use the Collet branch name when navigating, since the chain has other Avcılar locations. Google rating snapshot: 4.5/5, as displayed by the [rating source](https://tr.restaurantguru.com/Espressolab-Avcilar-Collet-Istanbul) consulted on 27 September 2026.",
+      "tags": [
+        "coffee",
+        "local",
+        "cakes"
+      ],
+      "address": "Firuzköy Bulvarı 210, Collet Avcılar, unit 8, Avcılar",
+      "priceLevel": "$$",
+      "rating": 4.5
+    },
+    {
+      "id": "hafiz-mustafa-sirkeci",
+      "name": "Hafız Mustafa 1864 Sirkeci",
+      "category": "cafe",
+      "neighborhood": "Sirkeci",
+      "lat": 41.014725,
+      "lng": 28.975887,
+      "shortDescription": "Baklava, künefe and milk puddings in a historic confectioner’s Sirkeci branch.",
+      "wiki": "Hafız Mustafa traces its confectionery history to 1864 in the Bahçekapı area. The Sirkeci shop offers a broad selection of Turkish sweets, including baklava, künefe and milk-based desserts. Share a few small portions to sample the range and check the weight-based price before ordering takeaway sweets. Google rating snapshot: 4.7/5, as displayed by the [rating source](https://mapbul.com/fr/business/hafiz-mustafa-1864-sirkeci) consulted on 27 September 2026.",
+      "tags": [
+        "dessert",
+        "baklava",
+        "kunefe"
+      ],
+      "address": "Hocapaşa, Muradiye Caddesi 51, Fatih",
+      "priceLevel": "$$",
+      "rating": 4.7
+    },
+    {
+      "id": "rabbit-hole-coffee-sultanahmet",
+      "name": "The Rabbit Hole Coffee Sultanahmet",
+      "category": "cafe",
+      "neighborhood": "Sultanahmet",
+      "lat": 41.005,
+      "lng": 28.97164,
+      "shortDescription": "A small coffee-and-breakfast refuge in the streets near Little Hagia Sophia.",
+      "wiki": "The Rabbit Hole is a small cafe in the Küçük Ayasofya neighborhood serving coffee and Turkish breakfast plates. Cheese, olives and bread accompany a relaxed daytime atmosphere away from the busiest monument entrances. Plan a morning or early-afternoon visit and check opening days, since it is a daytime cafe rather than an evening destination. Google rating snapshot: 4.8/5, as displayed by the [rating source](https://wanderlog.com/place/details/8236924) consulted on 27 September 2026.",
+      "tags": [
+        "coffee",
+        "breakfast",
+        "cozy"
+      ],
+      "address": "Küçük Ayasofya, İbrahim Paşa Yokuşu 48/A, Fatih",
+      "priceLevel": "$",
+      "rating": 4.8
     }
   ]
 }
