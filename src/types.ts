@@ -7,6 +7,7 @@ export type Category =
   | "breakfast"
   | "cafe"
   | "restaurant"
+  | "bar"
   | "viewpoint"
   | "market"
   | "park";
@@ -25,6 +26,7 @@ export interface Place {
   tags: string[];
   address?: string;
   priceLevel?: PriceLevel;
+  rating?: number;
 }
 
 export interface CityData {

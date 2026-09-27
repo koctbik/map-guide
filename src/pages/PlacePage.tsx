@@ -48,6 +48,7 @@ export default function PlacePage() {
           <div className="place-subline">
             {meta.label} · {place.neighborhood}
             {place.priceLevel ? ` · ${place.priceLevel}` : ""}
+            {place.rating ? ` · ★ ${place.rating.toFixed(1)}` : ""}
           </div>
         </div>
       </div>

@@ -124,7 +124,10 @@ export default function MapPage() {
                       </span>
                       <span className="place-list-text">
                         <strong>{p.name}</strong>
-                        <small>{p.neighborhood}</small>
+                        <small>
+                          {p.neighborhood}
+                          {p.rating ? ` · ★ ${p.rating.toFixed(1)}` : ""}
+                        </small>
                       </span>
                       {visited && <span className="check">✓</span>}
                     </button>

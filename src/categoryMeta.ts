@@ -9,6 +9,7 @@ export const CATEGORY_META: Record<Category, { label: string; color: string; emo
   breakfast: { label: "Breakfast", color: "#dd6b20", emoji: "\u{1F373}" },
   cafe: { label: "Cafe", color: "#795548", emoji: "☕" },
   restaurant: { label: "Restaurant", color: "#c53030", emoji: "\u{1F37D}️" },
+  bar: { label: "Bar", color: "#553c9a", emoji: "\u{1F378}" },
   viewpoint: { label: "Viewpoint", color: "#3182ce", emoji: "\u{1F304}" },
   market: { label: "Market", color: "#d53f8c", emoji: "\u{1F6CD}️" },
   park: { label: "Park", color: "#38a169", emoji: "\u{1F333}" },
