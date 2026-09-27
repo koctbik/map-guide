@@ -1,7 +1,794 @@
 {
   "city": "izmir",
   "cityLabel": "Izmir",
-  "center": { "lat": 38.4237, "lng": 27.1428 },
-  "comingSoon": true,
-  "places": []
+  "center": {
+    "lat": 38.4237,
+    "lng": 27.1428
+  },
+  "places": [
+    {
+      "id": "kadifekale",
+      "name": "Kadifekale (Mount Pagus Castle)",
+      "category": "historical",
+      "neighborhood": "Konak",
+      "lat": 38.413789,
+      "lng": 27.145405,
+      "shortDescription": "Hilltop fortress walls frame a sweeping view across Izmir Bay.",
+      "wiki": "Kadifekale occupies the hill of ancient Pagos, where Hellenistic Smyrna developed after the city's earlier settlement at Bayraklı. Its surviving fortifications and cistern preserve layers of Byzantine and Ottoman history as well as the ancient site's strategic importance. Walk around the accessible ruins and viewpoints, and take a taxi uphill if you want to avoid the steep approach on foot.",
+      "tags": [
+        "castle",
+        "ancient-smyrna",
+        "gulf-views"
+      ],
+      "address": "Kadifekale, Konak",
+      "priceLevel": "free"
+    },
+    {
+      "id": "agora-of-smyrna",
+      "name": "Agora of Smyrna",
+      "category": "historical",
+      "neighborhood": "Konak",
+      "lat": 38.41889,
+      "lng": 27.13778,
+      "shortDescription": "Roman colonnades and vaulted galleries survive in the heart of modern Izmir.",
+      "wiki": "Smyrna's agora was a center of civic and commercial life, with much of the visible fabric belonging to the rebuilding after the earthquake of AD 178. Colonnades, arches and the basilica's lower galleries reveal the scale of the Roman city. Follow the signed visitor route and wear shoes with good grip for the uneven ancient surfaces.",
+      "tags": [
+        "roman",
+        "archaeology",
+        "ancient-smyrna"
+      ],
+      "address": "Namazgâh, Konak",
+      "priceLevel": "$"
+    },
+    {
+      "id": "izmir-clock-tower",
+      "name": "Izmir Clock Tower",
+      "category": "historical",
+      "neighborhood": "Konak",
+      "lat": 38.418861,
+      "lng": 27.128667,
+      "shortDescription": "Izmir's ornate 1901 clock tower anchors lively Konak Square.",
+      "wiki": "Designed by Raymond Charles Péré, the tower commemorated the twenty-fifth anniversary of Sultan Abdülhamid II's accession. Its slender stonework and fountains have made it one of the city's most recognizable meeting points. Visit the square for photographs, then continue into Kemeraltı; early morning offers more space around the monument.",
+      "tags": [
+        "landmark",
+        "ottoman",
+        "architecture"
+      ],
+      "address": "Konak Meydanı, Konak",
+      "priceLevel": "free"
+    },
+    {
+      "id": "izmir-archaeology-museum",
+      "name": "Izmir Archaeology Museum",
+      "category": "museum",
+      "neighborhood": "Konak",
+      "lat": 38.41389,
+      "lng": 27.12806,
+      "shortDescription": "A regional archaeological collection connects Izmir with the ancient Aegean.",
+      "wiki": "The museum traces its origins to the collection opened to the public in 1927 and has occupied its purpose-built Bahribaba Park building since 1984. Its holdings include sculpture, ceramics and other finds from western Anatolia, offering context for visits to nearby ancient cities. Check the museum's current exhibition and access information before visiting, since Izmir also displays archaeological collections at the Culture and Arts Factory in Alsancak.",
+      "tags": [
+        "archaeology",
+        "sculpture",
+        "aegean-history"
+      ],
+      "address": "Bahri Baba Parkı, Halil Rıfat Paşa Caddesi, Konak",
+      "priceLevel": "$"
+    },
+    {
+      "id": "izmir-ataturk-museum",
+      "name": "Izmir Atatürk Museum",
+      "category": "museum",
+      "neighborhood": "Alsancak",
+      "lat": 38.43556,
+      "lng": 27.14056,
+      "shortDescription": "A Kordon mansion preserves the rooms and memory of Atatürk's Izmir visits.",
+      "wiki": "This nineteenth-century waterfront house later served as accommodation for Mustafa Kemal Atatürk and became a museum in 1941. Its furnished rooms and displays explore his visits to Izmir and the early Republic. The museum has announced a temporary repair closure from July 27 through October 24, 2026, so confirm reopening before planning an interior visit.",
+      "tags": [
+        "ataturk",
+        "republican-history",
+        "historic-house"
+      ],
+      "address": "Atatürk Caddesi, Gündoğdu, Alsancak",
+      "priceLevel": "free"
+    },
+    {
+      "id": "ephesus-ancient-city",
+      "name": "Ephesus Ancient City",
+      "category": "historical",
+      "neighborhood": "Selçuk",
+      "lat": 37.939209,
+      "lng": 27.340901,
+      "shortDescription": "Marble streets lead through one of the Mediterranean's great ancient cities.",
+      "wiki": "Ephesus grew into a major city of Roman Asia and is part of the UNESCO-listed Ephesus World Heritage property. Visitors explore monuments including the Library of Celsus, the Great Theatre and the terraces along Curetes Street; this pin marks the library within the site. Allow several hours, bring water and sun protection, and check whether the Terrace Houses require an additional ticket.",
+      "tags": [
+        "roman",
+        "unesco",
+        "archaeology"
+      ],
+      "address": "Efes Örenyeri, Selçuk",
+      "priceLevel": "$$$"
+    },
+    {
+      "id": "temple-of-artemis",
+      "name": "Temple of Artemis Ruins",
+      "category": "historical",
+      "neighborhood": "Selçuk",
+      "lat": 37.949699,
+      "lng": 27.363899,
+      "shortDescription": "A solitary reconstructed column recalls a lost Wonder of the Ancient World.",
+      "wiki": "The Artemision at Ephesus was one of antiquity's most celebrated sanctuaries and one of the Seven Wonders of the Ancient World. Only low foundations, scattered architectural fragments and a reconstructed column remain in the open site today. Pair this short outdoor stop with the Ephesus Museum to see representations of Artemis, and expect exposed ground with little shade.",
+      "tags": [
+        "ancient-wonder",
+        "ruins",
+        "artemis"
+      ],
+      "address": "Artemis Tapınağı, west of central Selçuk",
+      "priceLevel": "free"
+    },
+    {
+      "id": "house-of-the-virgin-mary",
+      "name": "House of the Virgin Mary",
+      "category": "historical",
+      "neighborhood": "Selçuk",
+      "lat": 37.912383,
+      "lng": 27.332732,
+      "shortDescription": "A wooded hilltop shrine draws pilgrims above Ephesus.",
+      "wiki": "Christian tradition associates this small stone sanctuary on Bülbül Mountain with Mary's final years, although that association is a matter of faith rather than established biography. Visitors enter the chapel, pause at the prayer area and follow the paths around the spring and wishing wall. Arrange your return transport before ascending, as the shrine is separate from the Ephesus archaeological site.",
+      "tags": [
+        "pilgrimage",
+        "chapel",
+        "woodland"
+      ],
+      "address": "Meryem Ana Evi, Bülbül Dağı, Selçuk",
+      "priceLevel": "$$"
+    },
+    {
+      "id": "sirince-village",
+      "name": "Şirince Village",
+      "category": "historical",
+      "neighborhood": "Selçuk",
+      "lat": 37.9424,
+      "lng": 27.4325,
+      "shortDescription": "Whitewashed hillside houses overlook orchards and village wine shops.",
+      "wiki": "Şirince preserves a compact settlement of traditional houses on the hills east of Selçuk. Its Greek Orthodox heritage, old churches and the population exchange of the 1920s form important parts of the village's history. Explore the cobbled lanes and local food stalls, and arrive early to enjoy the center before the busiest day-trip crowds.",
+      "tags": [
+        "village",
+        "stone-houses",
+        "local-food"
+      ],
+      "address": "Şirince village center, Selçuk",
+      "priceLevel": "free"
+    },
+    {
+      "id": "cesme-castle",
+      "name": "Çeşme Castle and Museum",
+      "category": "museum",
+      "neighborhood": "Çeşme",
+      "lat": 38.3236,
+      "lng": 26.3036,
+      "shortDescription": "Ottoman ramparts rise above Çeşme's harbor and old town.",
+      "wiki": "Built in the early sixteenth century during the reign of Bayezid II, Çeşme Castle protected this strategic Aegean port. The castle contains museum displays and offers views over the marina from its fortifications. Explore the galleries and ramparts together, wearing sturdy shoes for the stone steps.",
+      "tags": [
+        "castle",
+        "ottoman",
+        "harbor-views"
+      ],
+      "address": "Musalla, Çeşme town center",
+      "priceLevel": "$"
+    },
+    {
+      "id": "alacati-old-town",
+      "name": "Alaçatı Old Town and Windmills",
+      "category": "historical",
+      "neighborhood": "Alaçatı",
+      "lat": 38.286184,
+      "lng": 26.374048,
+      "shortDescription": "Stone houses, boutiques and old windmills define this Aegean town.",
+      "wiki": "Alaçatı's historic center is known for its stone-built houses, narrow lanes and windmills, reflecting the town's Greek and Turkish heritage. Visitors browse independent shops and cafés around Kemalpaşa Caddesi and Hacı Memiş, while the windsurfing schools are at the separate bay south of town. Start at the windmills marked here and explore on foot; summer evenings are particularly busy.",
+      "tags": [
+        "stone-houses",
+        "windmills",
+        "boutiques"
+      ],
+      "address": "Historic windmills and Kemalpaşa Caddesi, Alaçatı",
+      "priceLevel": "free"
+    },
+    {
+      "id": "foca-beskapilar",
+      "name": "Foça Beşkapılar Castle and Old Harbor",
+      "category": "historical",
+      "neighborhood": "Foça",
+      "lat": 38.66917,
+      "lng": 26.75083,
+      "shortDescription": "Seafront fortifications stand beside the harbor of ancient Phokaia.",
+      "wiki": "Modern Foça occupies the site of Phokaia, an Ionian maritime city whose sailors founded settlements around the Mediterranean. Beşkapılar preserves part of the coastal fortifications, including the five-arched section that gives it its name. Walk the harbor and accessible exterior walls, and check locally before expecting access to any interior exhibition or event space.",
+      "tags": [
+        "phokaia",
+        "fortifications",
+        "harbor"
+      ],
+      "address": "Beşkapılar, Eski Foça",
+      "priceLevel": "free"
+    },
+    {
+      "id": "pergamon-acropolis",
+      "name": "Pergamon Acropolis",
+      "category": "historical",
+      "neighborhood": "Bergama",
+      "lat": 39.132999,
+      "lng": 27.183201,
+      "shortDescription": "A steep ancient theater and royal ruins crown the hill above Bergama.",
+      "wiki": "Pergamon was the capital of the Hellenistic Attalid kingdom and an important center of scholarship and monumental architecture. The acropolis preserves the dramatic theater, royal precincts and the remains of the sanctuary of Trajan, within a UNESCO-listed cultural landscape. Set aside time for the steep paths and check the cable car's operating status if you plan to use it.",
+      "tags": [
+        "hellenistic",
+        "unesco",
+        "theater"
+      ],
+      "address": "Bergama Akropol Örenyeri, Bergama",
+      "priceLevel": "$$"
+    },
+    {
+      "id": "ephesus-museum",
+      "name": "Ephesus Archaeological Museum",
+      "category": "museum",
+      "neighborhood": "Selçuk",
+      "lat": 37.948944,
+      "lng": 27.367514,
+      "shortDescription": "Artemis statues and finds from Ephesus give the ruins a human scale.",
+      "wiki": "The Ephesus Museum in Selçuk houses objects excavated from the ancient city and its surrounding sanctuaries. Its best-known displays include the statues of Artemis Ephesia, alongside sculpture and objects illuminating domestic and religious life. Visit before or after the ruins for context, and remember that the museum is in town rather than inside the Ephesus site.",
+      "tags": [
+        "archaeology",
+        "artemis",
+        "sculpture"
+      ],
+      "address": "Atatürk Mahallesi, Uğur Mumcu Sevgi Yolu, Selçuk",
+      "priceLevel": "$"
+    },
+    {
+      "id": "st-john-basilica",
+      "name": "Basilica of Saint John",
+      "category": "historical",
+      "neighborhood": "Selçuk",
+      "lat": 37.95227,
+      "lng": 27.367508,
+      "shortDescription": "Byzantine church ruins overlook Selçuk from Ayasuluk Hill.",
+      "wiki": "The sixth-century basilica was built under Emperor Justinian over the place traditionally identified as the tomb of John the Apostle. Surviving columns, walls and the church's footprint reveal the scale of an important Byzantine pilgrimage center. Explore the ruins and views toward the Artemision, and check whether access to the hilltop castle is included and open that day.",
+      "tags": [
+        "byzantine",
+        "pilgrimage",
+        "ruins"
+      ],
+      "address": "Ayasuluk Hill, Selçuk",
+      "priceLevel": "$"
+    },
+    {
+      "id": "urla-sanat-sokagi",
+      "name": "Urla Old Town and Sanat Sokağı",
+      "category": "historical",
+      "neighborhood": "Urla",
+      "lat": 38.322,
+      "lng": 26.764,
+      "shortDescription": "Urla's old stone streets mix craft studios, cafés and small galleries.",
+      "wiki": "Zafer Caddesi, commonly known as Sanat Sokağı, is a focal point of Urla's historic town center. Restored stone buildings accommodate workshops, shops and places to eat, and nearby market streets remain part of everyday local life. Wander between the studios and central lanes on foot, allowing for individual shops to keep different opening hours.",
+      "tags": [
+        "old-town",
+        "crafts",
+        "stone-houses"
+      ],
+      "address": "Zafer Caddesi, central Urla",
+      "priceLevel": "free"
+    },
+    {
+      "id": "kemeralti-bazaar",
+      "name": "Kemeraltı Bazaar",
+      "category": "market",
+      "neighborhood": "Konak",
+      "lat": 38.41833,
+      "lng": 27.13222,
+      "shortDescription": "Izmir's historic shopping quarter is a maze of food stalls, workshops and courtyards.",
+      "wiki": "Kemeraltı developed around the old harbor as Izmir expanded into a major Ottoman trading port. Its streets still combine everyday commerce with mosques, hans, coffee shops and traces of the city's Jewish heritage. Explore on foot and visit during daytime trading hours, when the market's shops and food counters are most active.",
+      "tags": [
+        "bazaar",
+        "shopping",
+        "street-food"
+      ],
+      "address": "Anafartalar Caddesi and surrounding lanes, Konak",
+      "priceLevel": "free"
+    },
+    {
+      "id": "kizlaragasi-hani",
+      "name": "Kızlarağası Hanı",
+      "category": "market",
+      "neighborhood": "Konak",
+      "lat": 38.421299,
+      "lng": 27.133001,
+      "shortDescription": "An eighteenth-century trading inn shelters shops and a lively courtyard.",
+      "wiki": "Kızlarağası Hanı was built in the Ottoman period to serve Izmir's merchants and caravan trade. The restored two-story complex now houses shops selling items such as handicrafts, jewelry and antiques, with coffee stops in and around the courtyard. Look up at the galleries as you browse, and compare prices between shops before buying.",
+      "tags": [
+        "ottoman",
+        "caravanserai",
+        "handicrafts"
+      ],
+      "address": "Kemeraltı, beside Hisar Mosque, Konak",
+      "priceLevel": "free"
+    },
+    {
+      "id": "hisar-mosque",
+      "name": "Hisar Mosque",
+      "category": "mosque",
+      "neighborhood": "Konak",
+      "lat": 38.42172,
+      "lng": 27.13354,
+      "shortDescription": "A richly decorated Ottoman mosque anchors the heart of Kemeraltı.",
+      "wiki": "Hisar Mosque dates to the late sixteenth century and is one of Izmir's most significant Ottoman religious buildings. Its domed prayer hall and elaborate interior decoration contrast with the busy market streets outside. Visit between prayer times, dress modestly and remove your shoes before entering the prayer area.",
+      "tags": [
+        "ottoman",
+        "architecture",
+        "kemeralti"
+      ],
+      "address": "Hisarönü, Kemeraltı, Konak",
+      "priceLevel": "free"
+    },
+    {
+      "id": "nahil-namazgah-hamam",
+      "name": "Nahıl Namazgâh Women's Hamam",
+      "category": "hamam",
+      "neighborhood": "Konak",
+      "lat": 38.41827,
+      "lng": 27.13961,
+      "shortDescription": "A restored neighborhood bath pairs traditional bathing with support for women's livelihoods.",
+      "wiki": "Namazgâh is a historic bath beside the Agora whose precise construction date is uncertain. It reopened under Nahıl, the economic enterprise of the Foundation for the Support of Women's Work, in 2024 as a women-only bathing venue. Visitors can book traditional bath treatments; contact the operator in advance to confirm availability, the service package and what to bring.",
+      "tags": [
+        "women-only",
+        "turkish-bath",
+        "social-enterprise"
+      ],
+      "address": "Yeni Mahallesi, Tarık Sarı Sokak No:28–30, Konak",
+      "priceLevel": "$$"
+    },
+    {
+      "id": "kordon-promenade",
+      "name": "Kordon Promenade",
+      "category": "park",
+      "neighborhood": "Alsancak",
+      "lat": 38.43635,
+      "lng": 27.13901,
+      "shortDescription": "Walk, picnic or watch sunset along Izmir's signature waterfront.",
+      "wiki": "The Kordon is the city's best-known seafront promenade, lined with lawns, paths and views across the inner gulf. Around Gündoğdu Square it serves as a gathering place for everyday recreation and public events. Walk between the waterfront squares and Alsancak, keeping clear of the cycle path and bringing a layer for the evening sea breeze.",
+      "tags": [
+        "waterfront",
+        "sunset",
+        "walking"
+      ],
+      "address": "Kordon lawns near Gündoğdu Square, Alsancak",
+      "priceLevel": "free"
+    },
+    {
+      "id": "kulturpark",
+      "name": "Kültürpark",
+      "category": "park",
+      "neighborhood": "Konak",
+      "lat": 38.427778,
+      "lng": 27.144722,
+      "shortDescription": "A large central park combines leafy paths with Izmir's fairground heritage.",
+      "wiki": "Opened in 1936, Kültürpark became closely associated with the Izmir International Fair and the city's modern cultural life. Its grounds contain mature trees, walking paths, cultural venues and exhibition spaces. Take a shaded stroll and check the event calendar, since fairs and performances can change access arrangements and crowd levels.",
+      "tags": [
+        "urban-park",
+        "walking",
+        "culture"
+      ],
+      "address": "Kültürpark, Konak",
+      "priceLevel": "free"
+    },
+    {
+      "id": "karsiyaka-waterfront",
+      "name": "Karşıyaka Ferry Waterfront",
+      "category": "park",
+      "neighborhood": "Karşıyaka",
+      "lat": 38.45495,
+      "lng": 27.12042,
+      "shortDescription": "Ferries, palm-lined walks and gulf views welcome visitors to Karşıyaka.",
+      "wiki": "Karşıyaka's waterfront faces central Izmir from the northern shore of the gulf and has long been linked to the city by ferry. The pier is a useful starting point for a coastal walk or a detour into the lively shopping streets behind it. Check the ferry timetable before returning, and note that the waterfront walk is free while ferry travel requires a fare.",
+      "tags": [
+        "waterfront",
+        "ferries",
+        "walking"
+      ],
+      "address": "Karşıyaka İskelesi and Cemal Gürsel Caddesi",
+      "priceLevel": "free"
+    },
+    {
+      "id": "ilica-public-beach",
+      "name": "Ilıca Public Beach",
+      "category": "park",
+      "neighborhood": "Çeşme",
+      "lat": 38.30919,
+      "lng": 26.37246,
+      "shortDescription": "Pale sand and shallow turquoise water make Ilıca a classic Çeşme beach stop.",
+      "wiki": "Ilıca is one of the Çeşme peninsula's best-known sandy beaches, with a long shore and generally shallow water close to land. Visitors come to swim, walk the beach and enjoy views across the bay. Public beach access is free, but loungers and other services may cost extra; arrive early in summer and check wind and swimming conditions.",
+      "tags": [
+        "beach",
+        "swimming",
+        "public-beach"
+      ],
+      "address": "Ilıca shoreline, Çeşme",
+      "priceLevel": "free"
+    },
+    {
+      "id": "historic-asansor",
+      "name": "Historic Asansör",
+      "category": "viewpoint",
+      "neighborhood": "Karataş",
+      "lat": 38.408798,
+      "lng": 27.117489,
+      "shortDescription": "A 1907 elevator lifts visitors from a narrow street to gulf panoramas.",
+      "wiki": "Nesim Levi Bayraklıoğlu funded the Asansör to connect Karataş's lower streets with the neighborhood above the steep cliff. The tower has become a city landmark, approached along Dario Moreno Street, named for the singer who lived nearby. Ride to the upper terrace for the view and allow extra time around sunset, when queues can form.",
+      "tags": [
+        "historic-elevator",
+        "gulf-views",
+        "sunset"
+      ],
+      "address": "Dario Moreno Sokağı, Karataş, Konak",
+      "priceLevel": "free"
+    },
+    {
+      "id": "bostanli-sunset-terrace",
+      "name": "Bostanlı Sunset Terrace",
+      "category": "viewpoint",
+      "neighborhood": "Bostanlı",
+      "lat": 38.45532,
+      "lng": 27.09306,
+      "shortDescription": "Timber terraces turn the gulf shoreline into a communal sunset seat.",
+      "wiki": "The Bostanlı waterfront's landscaped terraces are a contemporary public space designed around the coastal setting. Residents gather on the broad wooden seating to watch the light change over the gulf, with walking and cycling routes nearby. Arrive before sunset to find a place and keep the pedestrian and cycle routes unobstructed.",
+      "tags": [
+        "sunset",
+        "waterfront",
+        "public-space"
+      ],
+      "address": "Bostanlı Sahili, Karşıyaka",
+      "priceLevel": "free"
+    },
+    {
+      "id": "alsancak-dostlar-firini",
+      "name": "Alsancak Dostlar Fırını",
+      "category": "breakfast",
+      "neighborhood": "Alsancak",
+      "lat": 38.43925,
+      "lng": 27.14382,
+      "shortDescription": "Start the morning with flaky boyoz and a baked egg at an Izmir institution.",
+      "wiki": "Established in 1983, Alsancak Dostlar Fırını is closely associated with boyoz, the pastry that has become a symbol of Izmir's breakfast culture. The traditional combination is plain boyoz, an oven-baked egg and tea, with filled pastry options also available. Go early for a wider choice and specify the Kıbrıs Şehitleri branch when navigating.",
+      "tags": [
+        "boyoz",
+        "bakery",
+        "local-breakfast"
+      ],
+      "address": "Kıbrıs Şehitleri Caddesi No:120, Alsancak",
+      "priceLevel": "$"
+    },
+    {
+      "id": "zeynel-ergin-gevrek-firini",
+      "name": "Zeynel Ergin Gevrek Fırını",
+      "category": "breakfast",
+      "neighborhood": "Alsancak",
+      "lat": 38.438445,
+      "lng": 27.145213,
+      "shortDescription": "A historic oven keeps Alsancak supplied with sesame-coated gevrek.",
+      "wiki": "The Ergin family has operated this bakery since 1962, preserving a much older stone-oven setting. It is known for gevrek, Izmir's sesame-coated bread ring, alongside boyoz and bakery-style kumru sandwiches. Order a simple breakfast with tea, and come early if you want to choose from the freshest batches.",
+      "tags": [
+        "gevrek",
+        "bakery",
+        "local-breakfast"
+      ],
+      "address": "Alsancak, near the railway station",
+      "priceLevel": "$"
+    },
+    {
+      "id": "reyhan-pastanesi-alsancak",
+      "name": "Reyhan Pastanesi Alsancak",
+      "category": "cafe",
+      "neighborhood": "Alsancak",
+      "lat": 38.432173,
+      "lng": 27.141292,
+      "shortDescription": "An enduring Izmir patisserie serves elaborate cakes and a proper tea break.",
+      "wiki": "Reyhan has been a fixture of Alsancak's patisserie culture since 1965. Its specialties include cakes, chocolates and ice-cream-based desserts such as rokoko, alongside savory pastries. Browse the counter before ordering and allow for a wait at busy afternoon and weekend times.",
+      "tags": [
+        "patisserie",
+        "cakes",
+        "tea"
+      ],
+      "address": "Dr. Mustafa Enver Bey Caddesi No:24, Alsancak",
+      "priceLevel": "$$",
+      "rating": 4.4
+    },
+    {
+      "id": "leone-alsancak",
+      "name": "Léone Patisserie & Boulangerie Alsancak",
+      "category": "cafe",
+      "neighborhood": "Alsancak",
+      "lat": 38.43074,
+      "lng": 27.1387,
+      "shortDescription": "French-style croissants and pastries make a relaxed Alsancak coffee stop.",
+      "wiki": "Léone was founded by a family with Turkish and French ties and began baking in Izmir in 2011. Its repertoire includes croissants, éclairs and other French-style pastries made using traditional techniques. Pair a pastry with coffee and visit earlier in the day for the broadest bakery selection.",
+      "tags": [
+        "croissants",
+        "patisserie",
+        "coffee"
+      ],
+      "address": "Vasıf Çınar Bulvarı No:29/A, Alsancak",
+      "priceLevel": "$$"
+    },
+    {
+      "id": "sevinc-pastanesi-alsancak",
+      "name": "Sevinç Pastanesi Alsancak",
+      "category": "cafe",
+      "neighborhood": "Alsancak",
+      "lat": 38.434678,
+      "lng": 27.142298,
+      "shortDescription": "A classic meeting-point patisserie sits at the entrance to Kıbrıs Şehitleri.",
+      "wiki": "Opened by the Pelit family in 1957, Sevinç is part of Alsancak's long-established café and pastry-shop culture. Visitors stop for cakes, pastries and hot drinks while watching the neighborhood's busy pedestrian flow. Its central position makes it a convenient rendezvous, but choose a quieter weekday hour if you want a less crowded break.",
+      "tags": [
+        "patisserie",
+        "cakes",
+        "local-institution"
+      ],
+      "address": "Ali Çetinkaya Bulvarı No:27/C, Alsancak",
+      "priceLevel": "$$"
+    },
+    {
+      "id": "morisi-kahvalti-bostanli",
+      "name": "Morisi Kahvaltı Bostanlı",
+      "category": "breakfast",
+      "neighborhood": "Bostanlı",
+      "lat": 38.456123,
+      "lng": 27.100607,
+      "shortDescription": "A generous shared breakfast draws visitors into Bostanlı's neighborhood streets.",
+      "wiki": "Morisi's Bostanlı branch specializes in the leisurely Turkish breakfast known as serpme kahvaltı. A table combines cheeses, olives, spreads and breads with hot breakfast dishes, making this a sit-down meal rather than a quick bakery stop. Check the current menu and per-person conditions when ordering, and expect weekend demand.",
+      "tags": [
+        "kahvalti",
+        "shared-breakfast",
+        "neighborhood"
+      ],
+      "address": "Nebil Susup Sokak No:159/A, Bostanlı",
+      "priceLevel": "$$"
+    },
+    {
+      "id": "bravo-patisserie-bostanli",
+      "name": "Bravo Patisserie Bostanlı",
+      "category": "cafe",
+      "neighborhood": "Bostanlı",
+      "lat": 38.458101,
+      "lng": 27.096001,
+      "shortDescription": "A neighborhood patisserie offers cakes and ice cream after a Bostanlı stroll.",
+      "wiki": "Bravo is a well-known Bostanlı pastry shop with a particular local following for its ice cream. Visitors stop for a sweet break, choosing from the pastry counter and seasonal ice-cream flavors. Ask whether mastic ice cream is available if you want a flavor strongly associated with the Aegean.",
+      "tags": [
+        "patisserie",
+        "ice-cream",
+        "desserts"
+      ],
+      "address": "Bostanlı, Karşıyaka",
+      "priceLevel": "$$"
+    },
+    {
+      "id": "denizpark-bostanli",
+      "name": "Denizpark Cafe & Restaurant",
+      "category": "breakfast",
+      "neighborhood": "Bostanlı",
+      "lat": 38.452963,
+      "lng": 27.09687,
+      "shortDescription": "Breakfast beside the ferry pier comes with wide-open gulf views.",
+      "wiki": "Denizpark opened in 2008 by the Bostanlı waterfront and serves breakfast as well as meals throughout the day. Its main draw for visitors is the combination of a sit-down café meal and a position directly beside the gulf. Ask for a waterside table and check breakfast service hours before making a special morning trip.",
+      "tags": [
+        "kahvalti",
+        "waterfront",
+        "gulf-views"
+      ],
+      "address": "Bostanlı Vapur İskelesi, Hasan Ali Yücel Bulvarı",
+      "priceLevel": "$$"
+    },
+    {
+      "id": "tuzu-biberi-karsiyaka",
+      "name": "Tuzu Biberi Karşıyaka",
+      "category": "breakfast",
+      "neighborhood": "Karşıyaka",
+      "lat": 38.452832,
+      "lng": 27.116464,
+      "shortDescription": "A local breakfast specialist brings kahvaltı to Karşıyaka's coastal avenue.",
+      "wiki": "Tuzu Biberi began in Bostanlı in 2009 and expanded around Izmir with breakfast at the center of its offering. The Karşıyaka branch serves Turkish breakfast combinations and cooked dishes in a convenient position near the waterfront. Confirm the contents and minimum-person rules of shared breakfast orders before choosing a spread.",
+      "tags": [
+        "kahvalti",
+        "local-chain",
+        "waterfront"
+      ],
+      "address": "Cemal Gürsel Caddesi No:382, Donanmacı, Karşıyaka",
+      "priceLevel": "$$"
+    },
+    {
+      "id": "kurukahveci-huseyin-usta",
+      "name": "Kurukahveci Hüseyin Usta",
+      "category": "cafe",
+      "neighborhood": "Konak",
+      "lat": 38.418391,
+      "lng": 27.130104,
+      "shortDescription": "Pause for Turkish coffee along Kemeraltı's busy shopping route.",
+      "wiki": "This coffee stop on Anafartalar Caddesi belongs to Kemeraltı's everyday market scene. A visit fits naturally between browsing the bazaar and exploring nearby hans and mosques. Order Turkish coffee with your preferred sugar level at the outset, since the sugar is added during preparation.",
+      "tags": [
+        "turkish-coffee",
+        "kemeralti",
+        "coffee-break"
+      ],
+      "address": "Anafartalar Caddesi No:77, Konak",
+      "priceLevel": "$"
+    },
+    {
+      "id": "deniz-restaurant-kordon",
+      "name": "Deniz Restaurant",
+      "category": "restaurant",
+      "neighborhood": "Alsancak",
+      "lat": 38.431214,
+      "lng": 27.13596,
+      "shortDescription": "A long-established Kordon seafood restaurant pairs fish and meze with bay views.",
+      "wiki": "Deniz Restaurant occupies the ground floor of Izmir Palas on the Kordon and is known for seafood, cold starters and calamari. Dining here is typically a leisurely progression from meze to fish rather than a quick single-course meal. Reserve for a waterfront table and confirm the weight and price of fish before ordering.",
+      "tags": [
+        "seafood",
+        "meze",
+        "kordon"
+      ],
+      "address": "Atatürk Caddesi No:188/B, Izmir Palas, Alsancak",
+      "priceLevel": "$$$"
+    },
+    {
+      "id": "aysa-bosnak-borekcisi",
+      "name": "Ayşa Boşnak Börekçisi ve Ev Yemekleri",
+      "category": "restaurant",
+      "neighborhood": "Konak",
+      "lat": 38.418541,
+      "lng": 27.134501,
+      "shortDescription": "Bosnian pastries and home-style dishes fill a historic Kemeraltı courtyard.",
+      "wiki": "Ayşa operates in Abacıoğlu Hanı, a restored trading inn within Kemeraltı. Its counter combines Bosnian and Turkish cooking, including börek, vegetable dishes and stews, making it a useful place to explore a range of cooked foods. Arrive in good time for lunch, since reservations are not accepted and popular dishes can run out.",
+      "tags": [
+        "bosnian",
+        "home-cooking",
+        "courtyard"
+      ],
+      "address": "Abacıoğlu Hanı, Anafartalar Caddesi No:228 Z15, Konak",
+      "priceLevel": "$$"
+    },
+    {
+      "id": "begendik-abi-urla",
+      "name": "Beğendik Abi Urla",
+      "category": "restaurant",
+      "neighborhood": "Urla",
+      "lat": 38.322186,
+      "lng": 26.766875,
+      "shortDescription": "A traditional Urla lokanta celebrates vegetables, herbs and home cooking.",
+      "wiki": "Beğendik Abi is known for an Aegean repertoire that gives seasonal vegetables and olive-oil dishes a prominent place. Visitors choose from prepared dishes in the manner of a traditional lokanta, with both vegetable and meat options. Go around lunchtime for the fullest selection and ask the staff about seasonal artichokes and greens.",
+      "tags": [
+        "aegean",
+        "olive-oil-dishes",
+        "lokanta"
+      ],
+      "address": "Tatar Camii Sokak No:12, Camiatik, Urla",
+      "priceLevel": "$$"
+    },
+    {
+      "id": "hic-lokanta-urla",
+      "name": "Hiç Lokanta",
+      "category": "restaurant",
+      "neighborhood": "Urla",
+      "lat": 38.322159,
+      "lng": 26.764945,
+      "shortDescription": "Seasonal Urla cooking connects a stone-town dining room with an olive forest.",
+      "wiki": "Hiç Lokanta occupies a restored stone building on Urla's Sanat Sokağı. Its kitchen emphasizes seasonal produce and ingredients from the business's olive forest, presenting a contemporary interpretation of local cooking. Reserve ahead and check the current menu, since the dishes change with the season.",
+      "tags": [
+        "seasonal",
+        "aegean",
+        "olive-oil"
+      ],
+      "address": "Zafer Caddesi No:52, Sanat Sokağı, Urla",
+      "priceLevel": "$$$"
+    },
+    {
+      "id": "sakiz-alsancak",
+      "name": "Sakız Alsancak",
+      "category": "restaurant",
+      "neighborhood": "Alsancak",
+      "lat": 38.428652,
+      "lng": 27.135811,
+      "shortDescription": "Aegean and Cretan flavors meet meyhane-style dining opposite Pasaport Pier.",
+      "wiki": "Sakız Alsancak focuses on Aegean and Cretan cooking, with vegetable dishes, seafood and hot and cold meze. Its seafront location opposite Pasaport Pier makes it convenient for lunch or a slower evening meal with drinks. Reserve ahead for an evening table and ask what seasonal vegetable dishes are available.",
+      "tags": [
+        "aegean",
+        "cretan",
+        "meze"
+      ],
+      "address": "Atatürk Caddesi No:158/A, Akdeniz, Konak",
+      "priceLevel": "$$",
+      "rating": 4.6
+    },
+    {
+      "id": "aslinda-meyhane-urla",
+      "name": "Aslında Meyhane",
+      "category": "restaurant",
+      "neighborhood": "Urla",
+      "lat": 38.3225,
+      "lng": 26.7635,
+      "shortDescription": "A stone house and courtyard host relaxed meze evenings in old Urla.",
+      "wiki": "Aslında Meyhane occupies a traditional stone house in central Urla. Its menu emphasizes hot and cold starters meant for sharing, drawing on Turkish meyhane cooking with both seafood and vegetable options. Book an evening table ahead and check the weekly closing day before visiting.",
+      "tags": [
+        "meyhane",
+        "meze",
+        "courtyard"
+      ],
+      "address": "Dere Sokak No:26/A, Yeni Mahalle, Urla",
+      "priceLevel": "$$"
+    },
+    {
+      "id": "urla-winery",
+      "name": "Urla Şarapçılık",
+      "category": "bar",
+      "neighborhood": "Urla",
+      "lat": 38.252881,
+      "lng": 26.73669,
+      "shortDescription": "Taste local wines among the vineyards of the Urla peninsula.",
+      "wiki": "Urla Şarapçılık is one of the wineries associated with the Urla wine route, in the rural area around Kuşçular. Its wines use both Turkish and international grape varieties, offering a different perspective on the peninsula's agricultural heritage. Contact the winery to arrange a tasting and confirm visitor access; organize a driver if you plan to sample wine.",
+      "tags": [
+        "winery",
+        "wine-tasting",
+        "vineyards"
+      ],
+      "address": "8028 Sokak No:12, Kuşçular, Urla",
+      "priceLevel": "$$"
+    },
+    {
+      "id": "sirena-bar",
+      "name": "Sirena Bar",
+      "category": "bar",
+      "neighborhood": "Alsancak",
+      "lat": 38.433714,
+      "lng": 27.138145,
+      "shortDescription": "An old Kordon favorite serves beer with a front-row waterfront atmosphere.",
+      "wiki": "Sirena has been part of the Kordon's pub culture since 1976. Its straightforward beer-and-snacks format and outdoor seating make it a recognizable gathering place along the promenade. Come before the evening rush for a better chance of a waterside seat and check the current menu before planning a full meal.",
+      "tags": [
+        "pub",
+        "beer",
+        "waterfront"
+      ],
+      "address": "Atatürk Caddesi No:194/1A, Alsancak",
+      "priceLevel": "$$"
+    },
+    {
+      "id": "opus-bar-alsancak",
+      "name": "Opus Bar",
+      "category": "bar",
+      "neighborhood": "Alsancak",
+      "lat": 38.437376,
+      "lng": 27.14237,
+      "shortDescription": "A Gazi Kadınlar nightlife stop sits among Alsancak's historic side streets.",
+      "wiki": "Opus is a long-established bar on 1453 Sokak, commonly called Gazi Kadınlar Sokağı, one of Alsancak's best-known nightlife streets. The venue is associated with music and late-evening drinks in the area's old-house setting. Check the night's program and any cover charge before arriving, since the experience varies with the event.",
+      "tags": [
+        "nightlife",
+        "music",
+        "alsancak"
+      ],
+      "address": "1453 Sokak No:9, Alsancak",
+      "priceLevel": "$$"
+    },
+    {
+      "id": "skyfire-rooftop-bar",
+      "name": "SkyFire Bar & Restaurant",
+      "category": "bar",
+      "neighborhood": "Konak",
+      "lat": 38.4268,
+      "lng": 27.1356,
+      "shortDescription": "A hotel rooftop offers cocktails and panoramic views over central Izmir.",
+      "wiki": "SkyFire occupies the rooftop of the Renaissance Izmir Hotel near the city's central waterfront. It combines Mediterranean-inspired dining with a bar and terrace overlooking the city and gulf. Reserve ahead for a sunset visit and ask whether the outdoor terrace is available in the expected weather.",
+      "tags": [
+        "rooftop",
+        "cocktails",
+        "gulf-views"
+      ],
+      "address": "Gazi Osman Paşa Bulvarı No:16, Renaissance Izmir Hotel, Konak",
+      "priceLevel": "$$$"
+    }
+  ]
 }
